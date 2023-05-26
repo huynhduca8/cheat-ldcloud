@@ -238,9 +238,9 @@ class Cheat:
                 while self.get_coin() >= 400:
                     self.exchange_20p(device_id)
                     time.sleep(1)
-            time.sleep(1)
+            time.sleep(600)
 def run(acc):
-    Cheat(acc, 'token' not in acc)
+    Cheat(acc, 'token' not in acc, acc['email'] == 'huynhduc12a8@gmail.com')
 
 f_accounts = open('acc.json')
 accounts = json.load(f_accounts)
