@@ -2,11 +2,12 @@ import requests
 import time
 import json
 from threading import Thread
-from login_register import login 
+from login_controler import login 
 from encrypt import get_mid
 from multiprocessing.pool import ThreadPool
+from file import read_file, write_file
 class Cheat:
-    def __init__(self, p1, p2, is_account = False):
+    def __init__(self, acc, is_account = False, is_renew = False):
         proxies = {
             'http': 'socks4://127.0.0.1:10808',
             'https': 'socks4://127.0.0.1:10808'
@@ -15,19 +16,29 @@ class Cheat:
         # session.proxies.update(proxies)
         self.session = session
         if is_account:
-            result = login(session, p1, p2)
+            result = login(session, acc['email'], acc['password'])
             if result:
+                self.email = acc['email']
                 self.uid = result['uid']
                 self.token = result['token']
             else:
-                print("USERNAME", p1, "LOGIN FAILED")
+                print("USERNAME", acc['email'], "LOGIN FAILED")
                 return
         else:
-            self.uid = p1
-            self.token = p2
+            self.uid = acc['uid']
+            self.token = acc['token']
+            self.email = acc['email']
+        self.is_renew = is_renew
         self.mid = get_mid()
         self.time = int(time.time() * 1000)
-        self.main()
+        try:
+            if self.uid:
+                acc['uid'] = self.uid
+                acc['token'] = self.token
+                write_file('acc.json', accounts)
+            self.main()
+        except Exception as e:
+            print('EMAIL', '%-30s' % self.email, 'SOMETHING WENT WRONG', e)
     def get_time(self):
         self.time = int(self.time + 1e5)
         return self.time
@@ -50,6 +61,19 @@ class Cheat:
         except Exception as e:
             print('get_list_games', e)
         return []
+    def get_diamond(self):
+        url = "https://ldq.ldcloud.net/api/en/wallet/my"
+        params = {
+            "uid": self.uid,
+            "token": self.token
+        }
+        req = self.session.post(url, params=params).json()
+        print(req)
+        try:
+            return req['data']['usableDiamond']
+        except Exception as e:
+            pass
+        return 0
     def remove_duplicate_game(self, games):
         gameTemps = []
         gameTemp = ''
@@ -67,7 +91,7 @@ class Cheat:
             "partner": partner,
             "regionCode": region_code,
             "packageName": package_name,
-            "mid": 0,
+            "mid": self.mid,
             "ver": 1
         }
         req = self.session.post(url, params=params).json()
@@ -76,7 +100,7 @@ class Cheat:
                 return self.get_money(package_name)
             raise Exception(req['msg']) 
         except Exception as e:
-            print("UID", self.uid, "INSTALL FAILED", e)
+            print('EMAIL', '%-30s' % self.email, '%-25s' % "INSTALL FAILED", e)
         return False
     def get_money(self, package_name):
         url = "https://ldq.ldcloud.net/api/en/reward/diamond/my"
@@ -88,7 +112,7 @@ class Cheat:
         try:
             is_success = req['code'] == 0
             if is_success:
-                print("UID", self.uid, "INSTALL GAME SUCCESS", package_name, "DIAMON", req['data']['usableDiamond'])
+                print('EMAIL', '%-30s' % self.email, '%-25s' % "INSTALL GAME SUCCESS", package_name, "DIAMON", req['data']['usableDiamond'])
             return is_success
         except Exception as e:
             print('get_money', e)
@@ -102,25 +126,49 @@ class Cheat:
         }
         req = self.session.post(url, params=params).json()
         try:
-            return req['code'] == 0
+            status = req['data']['status'] == 1
+            if status:
+                print('EMAIL', '%-30s' % self.email, 'RECEIVED 0.27$')
+                return status
+            raise Exception()
         except Exception as e:
-            print('get_dolar', e)
+            print('EMAIL', '%-30s' % self.email, 'CAN\'T RECEIVE 0.27$', req)
         return False
-    def buy_device(self):
+    
+    def pre_buy_device(self):
         url = "https://ldq.ldcloud.net/api/en/cph/device/buy"
         params = {
             "uid": self.uid,
             "token": self.token,
-            "priceId": 1781,
+            "priceId": 1961,
             "num": 1,
-            "area": "sg"
+            "area": "tw"
         }
         req = self.session.post(url, params=params).json()
         try:
-            print(req)
             return req['data']['id']
         except Exception as e:
-            print('buy_device', e)
+            pass
+        return False
+    def buy_device(self):
+        order_id = self.pre_buy_device()
+        if not order_id:
+            print('EMAIL', '%-30s' % self.email, 'CAN\'T BUY A DEVICE')
+            return False
+        url = "https://ldq.ldcloud.net/api/en/wallet/pay"
+        params = {
+            "uid": self.uid,
+            "token": self.token,
+            "orderId": order_id
+        }
+        req = self.session.post(url, params=params).json()
+        try:
+            status = req['code'] == 0
+            if status:
+                print('EMAIL', '%-30s' % self.email, 'BOUGHT A DEVICE')
+            return status
+        except Exception as e:
+            print('EMAIL', '%-30s' % self.email, 'CAN\'T BUY A DEVICE', req)
         return False
     def get_coin(self):
         url = "https://ldq.ldcloud.net/api/en/reward/diamond/my"
@@ -130,7 +178,7 @@ class Cheat:
         }
         req = self.session.post(url, params=params).json()
         try:
-            print('UID', self.uid,'COIN', req['data']['usableDiamond'])
+            print('EMAIL', '%-30s' % self.email,'COIN', req['data']['usableDiamond'])
             return req['data']['usableDiamond']
         except Exception as e:
             print('get_coin', e)
@@ -150,7 +198,7 @@ class Cheat:
         try:
             return req['data']['records'][0]['deviceId']
         except Exception as e:
-            print("UID", self.uid, 'DOESN\'T HAVE A DEVICE', e)
+            print('EMAIL', '%-30s' % self.email, 'DOESN\'T HAVE A DEVICE', e)
         return 0
     def exchange_20p(self, device_d):
         url = "https://ldq.ldcloud.net/api/en/reward/diamond/exchange"
@@ -163,35 +211,39 @@ class Cheat:
         req = self.session.post(url, params=params).json()
         try:
             if req['code'] == 0:
-                print("UID", self.uid, 'EXCHANGE SUCCESS')
+                print('EMAIL', '%-30s' % self.email, 'EXCHANGE SUCCESS')
             return req['code']
         except Exception as e:
-            print("UID", self.uid, 'EXCHANGE FAILED', e)
+            print('EMAIL', '%-30s' % self.email, 'EXCHANGE FAILED', e)
         return False
     def main(self):
         if not self.uid:
             return
-        print('START', self.uid)
-        games = self.get_list_games()
-        if len(games) == 0:
-            print("UID", self.uid, "DOESN\'T HAVE ANY GAMES")
-            return
-        device_id = self.get_first_device()
-        if(len(games)):
-            for game in games:
-                self.install_game(game)
-                if(device_id > 0):
-                    while self.get_coin() >= 400:
-                        self.exchange_20p(device_id)
-                        time.sleep(1)
-                time.sleep(660)
+        print('EMAIL', '%-30s' % self.email, 'STARTING')
+        device_id = 0
+        if self.is_renew:
+            device_id = self.get_first_device()
+            if(device_id == 0):
+                if self.get_diamond() == 0:
+                    self.get_dolar()
+                self.buy_device()
+                device_id = self.get_first_device()
+        while True:
+            games = self.get_list_games()
+            if len(games) == 0:
+                print('EMAIL', '%-30s' % self.email, "DOESN\'T HAVE ANY GAMES")
+                break
+            self.install_game(games[0])
+            if(device_id > 0):
+                while self.get_coin() >= 400:
+                    self.exchange_20p(device_id)
+                    time.sleep(1)
+            time.sleep(1)
 def run(acc):
-    if 'uid' in acc:
-        Cheat(acc['uid'], acc['token'])
-    elif 'email' in acc:
-        Cheat(acc['email'], acc['password'], True)
+    Cheat(acc, 'token' not in acc)
+
+f_accounts = open('acc.json')
+accounts = json.load(f_accounts)
 if __name__ == '__main__':
-    f_accounts = open('accounts.json')
-    accounts = json.load(f_accounts)
-    pool = ThreadPool(8)
+    pool = ThreadPool(100)
     results = pool.map(run, accounts)

@@ -30,9 +30,10 @@ def pre_login(session, username, password):
             "token": token
         }
     except Exception as e:
-        if req and req['code'] == 60001:
-            time.sleep(1)
-            return pre_login(session, username, password)
+        # if req and req['code'] == 60001:
+        time.sleep(3)
+        print("EMAIL", username, "REPRELOGINING")
+        return pre_login(session, username, password)
     return False
 def login(session, username, password):
     result_pre_login = pre_login(session, username, password)
@@ -63,6 +64,7 @@ def login(session, username, password):
     except Exception as e:
         if req and req['code'] == 60001:
             time.sleep(1.5)
+            print("EMAIL", username, "RELOGINING")
             return pre_login(session, username, password)
         else:
             print(username, 'Login error', e, req)
