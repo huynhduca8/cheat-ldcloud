@@ -1,0 +1,982 @@
+[
+    {
+        "diamond": 800,
+        "id": 1229,
+        "packageName": "com.plarium.mechlegion",
+        "partner": "appsflyer",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 800,
+        "id": 1230,
+        "packageName": "com.plarium.raidlegends",
+        "partner": "appsflyer",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 800,
+        "id": 1231,
+        "packageName": "com.wod.ag.global",
+        "partner": "adjust",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 800,
+        "id": 1232,
+        "packageName": "com.allstarunion.ta.tw",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 800,
+        "id": 1233,
+        "packageName": "com.amonggods.cgpb",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 800,
+        "id": 1234,
+        "packageName": "com.mmz.rpg.kr.mobile",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 800,
+        "id": 1235,
+        "packageName": "com.star.union.planetant",
+        "partner": "appsflyer",
+        "regionCode": "de"
+    },
+    {
+        "diamond": 800,
+        "id": 1236,
+        "packageName": "com.funplus.kingofavalon",
+        "partner": "appsflyer",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 800,
+        "id": 1237,
+        "packageName": "com.sivona.stormshot.e",
+        "partner": "appsflyer",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 800,
+        "id": 1238,
+        "packageName": "com.farlightgames.samo.gp",
+        "partner": "appsflyer",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 800,
+        "id": 1239,
+        "packageName": "com.kingsgroup.sos",
+        "partner": "appsflyer",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 800,
+        "id": 1240,
+        "packageName": "threekingdoms.herowars.zbgame.gp",
+        "partner": "adjust",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 800,
+        "id": 1243,
+        "packageName": "com.ltgames.android.m71.tw",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 800,
+        "id": 1245,
+        "packageName": "com.tg.ysczgkr.gp",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1252,
+        "packageName": "com.jdgames.tysg.googleplay",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1253,
+        "packageName": "com.zbjoy.game.rxsgz",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1256,
+        "packageName": "com.tg.sshxaa.gp",
+        "partner": "adjust",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 600,
+        "id": 1257,
+        "packageName": "com.fingerfun.mu3.gp.us",
+        "partner": "adjust",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 600,
+        "id": 1258,
+        "packageName": "com.aqqys.global",
+        "partner": "appsflyer",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 600,
+        "id": 1259,
+        "packageName": "com.my.defense",
+        "partner": "appsflyer",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 600,
+        "id": 1261,
+        "packageName": "com.sialiagames.starg.gp.tw",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1262,
+        "packageName": "com.gacraze.dmsg",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1263,
+        "packageName": "com.tg.jsxwtw.gp",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1264,
+        "packageName": "com.yujianand.hk",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1265,
+        "packageName": "com.indie.shj.google.ft",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1266,
+        "packageName": "com.ulugame.sgdtsgat.google",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1269,
+        "packageName": "com.blancozone.dlssr.gp",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1271,
+        "packageName": "com.netease.mrzhtw",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1272,
+        "packageName": "com.zgccc.sgtf.qmxb",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1273,
+        "packageName": "com.farlightgames.xgame.gp.tw",
+        "partner": "adjust",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1274,
+        "packageName": "com.nexon.maplem.global",
+        "partner": "adjust",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1275,
+        "packageName": "com.igg.android.doomsdaylastsurvivors",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1276,
+        "packageName": "com.fundora.tianma",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1278,
+        "packageName": "com.bamboogame.xzthm",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1280,
+        "packageName": "com.qjzj4399kr.google",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1281,
+        "packageName": "com.indie.yzjq.google.kr",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1282,
+        "packageName": "com.jiulingsykr.andr",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1285,
+        "packageName": "com.indie.zll2.google.kr",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1286,
+        "packageName": "com.ujoygp.ugame",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1287,
+        "packageName": "com.indie.ysdl.google.kr",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1288,
+        "packageName": "com.kingsgroup.ss.kr",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1289,
+        "packageName": "com.lmdl4399kr.google",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1290,
+        "packageName": "com.ltgames.android.m71.kr",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1291,
+        "packageName": "com.indie.jz3d.google.kr",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1293,
+        "packageName": "com.wepie.finaltank",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1294,
+        "packageName": "com.tg.jsxwkr.gp",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1295,
+        "packageName": "com.arkgames.ggplay.tlonkr",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1296,
+        "packageName": "com.onemt.and.shkr",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1298,
+        "packageName": "com.pixelspirits.top.gp",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1304,
+        "packageName": "com.qookkagames.starg.gp.hk",
+        "partner": "appsflyer",
+        "regionCode": "hk"
+    },
+    {
+        "diamond": 600,
+        "id": 1322,
+        "packageName": "com.lets.psan.hwft",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1323,
+        "packageName": "com.taigusec.gptw",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 600,
+        "id": 1324,
+        "packageName": "com.netease.pm2naxx1kr",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1325,
+        "packageName": "com.farlightgames.xgame.gp.kr",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1326,
+        "packageName": "com.qookkagame.sgzzlb.gp.kr",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1327,
+        "packageName": "com.kingkongsoft.zycs.g",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1328,
+        "packageName": "com.jiumengsykr.gp",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1329,
+        "packageName": "com.ysjwhz.xiaoma",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1333,
+        "packageName": "com.thumbage.dekaron.google",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1334,
+        "packageName": "com.rxsjus.an.watt",
+        "partner": "appsflyer",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 600,
+        "id": 1335,
+        "packageName": "com.joycity.kof",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 600,
+        "id": 1336,
+        "packageName": "com.bigbreakgames.wot",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 500,
+        "id": 1337,
+        "packageName": "com.proximabeta.nikke",
+        "partner": "appsflyer",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 500,
+        "id": 1338,
+        "packageName": "com.jjlmzh.global.gp",
+        "partner": "appsflyer",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 500,
+        "id": 1339,
+        "packageName": "com.square_enix.android_googleplay.WOTVffbeww",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 500,
+        "id": 1340,
+        "packageName": "com.square_enix.android_googleplay.FFBEWW",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 500,
+        "id": 1341,
+        "packageName": "com.fivering.mu.an",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 500,
+        "id": 1342,
+        "packageName": "com.wpyhz.gp",
+        "partner": "adjust",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 500,
+        "id": 1343,
+        "packageName": "game.xin.hd.g",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 500,
+        "id": 1344,
+        "packageName": "com.baishemmo.gp",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 500,
+        "id": 1345,
+        "packageName": "com.sszgtw.gp",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 500,
+        "id": 1346,
+        "packageName": "com.lldxsmdj.android",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 500,
+        "id": 1347,
+        "packageName": "com.wydxzcs.tw.gp",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 500,
+        "id": 1348,
+        "packageName": "com.gf.p2ptwtw.hwyad.google",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 500,
+        "id": 1349,
+        "packageName": "com.indie.zll2.google.ft",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 500,
+        "id": 1350,
+        "packageName": "com.icantw.yh",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 500,
+        "id": 1351,
+        "packageName": "tw.sonet.princessconnect",
+        "partner": "adjust",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 500,
+        "id": 1358,
+        "packageName": "com.indie.ys.google.dny",
+        "partner": "appsflyer",
+        "regionCode": "my"
+    },
+    {
+        "diamond": 500,
+        "id": 1359,
+        "packageName": "com.indie.ys.google.en",
+        "partner": "appsflyer",
+        "regionCode": "my"
+    },
+    {
+        "diamond": 500,
+        "id": 1360,
+        "packageName": "com.fingerfun.mu3.gp.sea",
+        "partner": "adjust",
+        "regionCode": "my"
+    },
+    {
+        "diamond": 500,
+        "id": 1363,
+        "packageName": "com.egames.sgdtskr.google",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 500,
+        "id": 1364,
+        "packageName": "com.legendsabuk.legends",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 500,
+        "id": 1365,
+        "packageName": "com.korea.sshx.google",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 500,
+        "id": 1366,
+        "packageName": "com.kingkongsoft.smjz.g",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 500,
+        "id": 1367,
+        "packageName": "com.newleapsoft.fa.g",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 500,
+        "id": 1368,
+        "packageName": "com.girlwars.kr",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 500,
+        "id": 1369,
+        "packageName": "com.godsg.gpkr",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 500,
+        "id": 1370,
+        "packageName": "com.kingkongsoft.shj.g",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 500,
+        "id": 1384,
+        "packageName": "com.indie.jz3d.google.de",
+        "partner": "appsflyer",
+        "regionCode": "de"
+    },
+    {
+        "diamond": 500,
+        "id": 1389,
+        "packageName": "com.gtyyqms.guge",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 500,
+        "id": 1392,
+        "packageName": "com.ulugame.hsjgkr.google",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 500,
+        "id": 1393,
+        "packageName": "com.sst.sysj.google",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 500,
+        "id": 1394,
+        "packageName": "com.ulugame.hxmjkr.google",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 500,
+        "id": 1396,
+        "packageName": "com.espritgames.rpg.bookof.heroes",
+        "partner": "appsflyer",
+        "regionCode": "de"
+    },
+    {
+        "diamond": 400,
+        "id": 1398,
+        "packageName": "com.an.kbx.global.unlock",
+        "partner": "adjust",
+        "regionCode": "id"
+    },
+    {
+        "diamond": 400,
+        "id": 1404,
+        "packageName": "com.global.swtwt",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 400,
+        "id": 1405,
+        "packageName": "com.acngmhzc.tw",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 400,
+        "id": 1406,
+        "packageName": "com.kingsgroup.ss.tw",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 400,
+        "id": 1413,
+        "packageName": "com.s7game.magicheros",
+        "partner": "adjust",
+        "regionCode": "my"
+    },
+    {
+        "diamond": 400,
+        "id": 1414,
+        "packageName": "com.gravity.ragnarokorigin.aos",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 400,
+        "id": 1415,
+        "packageName": "com.gamepub.na.g",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 400,
+        "id": 1421,
+        "packageName": "com.YoStarEN.AzurLane",
+        "partner": "adjust",
+        "regionCode": "us"
+    },
+    {
+        "diamond": 400,
+        "id": 1422,
+        "packageName": "com.miHoYo.bh3tw",
+        "partner": "adjust",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 400,
+        "id": 1426,
+        "packageName": "com.wxxys.mmorpg.game.thailand",
+        "partner": "adjust",
+        "regionCode": "th"
+    },
+    {
+        "diamond": 400,
+        "id": 1434,
+        "packageName": "com.indie.shj.google.thai",
+        "partner": "appsflyer",
+        "regionCode": "th"
+    },
+    {
+        "diamond": 400,
+        "id": 1439,
+        "packageName": "com.global.dl3dvn",
+        "partner": "appsflyer",
+        "regionCode": "th"
+    },
+    {
+        "diamond": 400,
+        "id": 1440,
+        "packageName": "com.honorofheir.global",
+        "partner": "appsflyer",
+        "regionCode": "th"
+    },
+    {
+        "diamond": 400,
+        "id": 1443,
+        "packageName": "com.indie.jz3d.google.thai",
+        "partner": "appsflyer",
+        "regionCode": "th"
+    },
+    {
+        "diamond": 400,
+        "id": 1446,
+        "packageName": "com.proficientcity.ddtankbrazil",
+        "partner": "appsflyer",
+        "regionCode": "br"
+    },
+    {
+        "diamond": 400,
+        "id": 1455,
+        "packageName": "com.gp.immortaldynasty",
+        "partner": "adjust",
+        "regionCode": "th"
+    },
+    {
+        "diamond": 400,
+        "id": 1456,
+        "packageName": "vng.games.revelation.mobile",
+        "partner": "appsflyer",
+        "regionCode": "th"
+    },
+    {
+        "diamond": 400,
+        "id": 1458,
+        "packageName": "com.axxcq.vn",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1460,
+        "packageName": "com.idlepoetry.an",
+        "partner": "appsflyer",
+        "regionCode": "th"
+    },
+    {
+        "diamond": 400,
+        "id": 1472,
+        "packageName": "com.gameark.ggplay.lonsea",
+        "partner": "appsflyer",
+        "regionCode": "id"
+    },
+    {
+        "diamond": 400,
+        "id": 1481,
+        "packageName": "com.vtcmobile.longchien",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1482,
+        "packageName": "com.vtcmobile.daosixuatquan",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1483,
+        "packageName": "com.vtcmobile.thk",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1484,
+        "packageName": "vng.games.thienlong.kiemhiep3d.mobile",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1485,
+        "packageName": "com.vtcmobile.qslm",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1486,
+        "packageName": "vn.pg1.vltk1m",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1487,
+        "packageName": "com.vndqqk.gp",
+        "partner": "adjust",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1488,
+        "packageName": "com.m71.android.vn",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1490,
+        "packageName": "com.mu3.gp.vn",
+        "partner": "adjust",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1491,
+        "packageName": "com.vtcmobile.ha",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1492,
+        "packageName": "com.daichien.mobile",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1493,
+        "packageName": "com.vtcmobile.tqc",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1494,
+        "packageName": "com.vtcmobile.xcity",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1495,
+        "packageName": "com.game.wyhjvn.an",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1496,
+        "packageName": "com.vtcmobile.thienkhoi",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1497,
+        "packageName": "vnggames.volam.kiemthe.origin",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1498,
+        "packageName": "vn.funtap.thienkiem.chivan",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1499,
+        "packageName": "com.miHoYo.bh3oversea",
+        "partner": "adjust",
+        "regionCode": "th"
+    },
+    {
+        "diamond": 400,
+        "id": 1502,
+        "packageName": "com.mobigame.cuongma2",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1503,
+        "packageName": "com.gmt.lucdaoluanhoi",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1504,
+        "packageName": "vn.gosu.cuuam",
+        "partner": "appsflyer",
+        "regionCode": "vn"
+    },
+    {
+        "diamond": 400,
+        "id": 1505,
+        "packageName": "com.nexon.nsc.maplem",
+        "partner": "adjust",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 400,
+        "id": 1508,
+        "packageName": "com.levelinfinite.sgameGlobal",
+        "partner": "appsflyer",
+        "regionCode": "br"
+    },
+    {
+        "diamond": 400,
+        "id": 1511,
+        "packageName": "com.twby.fish",
+        "partner": "appsflyer",
+        "regionCode": "tw"
+    },
+    {
+        "diamond": 100,
+        "id": 1512,
+        "packageName": "com.korea.wl",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    },
+    {
+        "diamond": 100,
+        "id": 1513,
+        "packageName": "com.gravity.rox.and",
+        "partner": "appsflyer",
+        "regionCode": "kr"
+    }
+]
