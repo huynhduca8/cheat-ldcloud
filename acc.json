@@ -4,14 +4,16 @@
         "token": "e9b93e6e7795541d93bf7e20940a16b3",
         "email": "huynhduc12a8+@gmail.com",
         "device_id": 4118337,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "huynhduc12a8@gmail.com",
         "password": "dukoank",
         "uid": "2500230525694572",
         "token": "1d1a40450cf2433dd12f79b0c8afaefa",
-        "diamond": 40010
+        "diamond": 40010,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "siwab84690@cutefier.com",
@@ -19,7 +21,8 @@
         "uid": "2500230526852513",
         "token": "44ea82610aa68fe32b2cdb377fe81409",
         "diamond": 79210,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "citoj58799@cutefier.com",
@@ -27,7 +30,8 @@
         "uid": "2500230526379905",
         "token": "1da2b6f86dd68cf11df78276d741c522",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "menica3379@goflipa.com",
@@ -36,7 +40,8 @@
         "token": "5492df028382afe057db0af101cb1c62",
         "device_id": 4713551,
         "diamond": 38200,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "gebem37786@farebus.com",
@@ -46,7 +51,8 @@
         "diamond": 200,
         "device_id": 4118337,
         "renew": true,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "pofyqena@brand-app.biz",
@@ -54,7 +60,8 @@
         "uid": "2500230526684273",
         "token": "f501a06c0e9b38ce816ff7ce8232fef9",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "bepupe@clout.wiki",
@@ -63,7 +70,8 @@
         "token": "f70ab51771c43b2d7ed2fbae748b4bf8",
         "device_id": 4712477,
         "diamond": 45000,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "puvago@clout.wiki",
@@ -71,7 +79,8 @@
         "uid": "2500230526957605",
         "token": "bd0545b1903a96d66a6d977c3a32a3a9",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "mohajesa@tutuapp.bid",
@@ -79,7 +88,8 @@
         "uid": "2500230526787089",
         "token": "dfc05a3191ae43e1fc0977a036740eaa",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "pomapese@lyft.live",
@@ -87,7 +97,8 @@
         "uid": "2500230526438655",
         "token": "adbd9f6eebe36ab3b7b7e54d530be4c8",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "tajahy@lyft.live",
@@ -95,7 +106,8 @@
         "uid": "2500230526113255",
         "token": "77678ef0018b85caeb817839500c2dd7",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "rumysaru@brand-app.biz",
@@ -103,7 +115,8 @@
         "uid": "2500230526337226",
         "token": "37c5b3e0dc84c5ab221772884049575a",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "qvea6jtof@wuuvo.com",
@@ -111,7 +124,8 @@
         "uid": "2500230526062411",
         "token": "d513d081effbddce8d5d28084b62a853",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "9m2ye2oj@qiott.com",
@@ -119,7 +133,8 @@
         "uid": "2500230526258118",
         "token": "5cab65d178b2c812320e357ed04a07fa",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "egrfv5y3g@qiott.com",
@@ -127,7 +142,8 @@
         "uid": "2500230526327059",
         "token": "e1cab6dd4d9c5544ba549e53c3367acd",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "vk8ms19qu5@wuuvo.com",
@@ -135,7 +151,8 @@
         "uid": "2500230526777374",
         "token": "12b12980e905649a8390f2179de75190",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "rs0iglt68xpy@kzccv.com",
@@ -143,7 +160,8 @@
         "uid": "2500230526608935",
         "token": "4035c26224e1f8050e2bec1ac8661ec1",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "hjohtw9@kzccv.com",
@@ -151,7 +169,8 @@
         "uid": "2500230526751463",
         "token": "dd821a46913a7ca399df24bcaa078041",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "sdo5jy@qiott.com",
@@ -159,7 +178,8 @@
         "uid": "2500230526721126",
         "token": "30f498408aa2df82b447df64e8e33161",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "6tbq5s8@wuuvo.com",
@@ -167,7 +187,8 @@
         "uid": "2500230526153441",
         "token": "70feedca705282676efadd7ef44662ee",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "o1epal6l1@ezztt.com",
@@ -175,7 +196,8 @@
         "uid": "2500230526202957",
         "token": "0ef70a79828fa7a8e3a418f868a81a20",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "1vtykiln6@wuuvo.com",
@@ -183,7 +205,8 @@
         "uid": "2500230526692276",
         "token": "a93c164989544ee9c112a36b5c380d74",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "1n42acxn9o0d@icznn.com",
@@ -191,7 +214,8 @@
         "uid": "2500230526857161",
         "token": "d20047914d07f230f67911e4a7549e22",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "z2xpyuytvi47@wuuvo.com",
@@ -199,7 +223,8 @@
         "uid": "2500230526816710",
         "token": "25227e008968ddcf4ccb47065c7a7072",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "5et6xadia@qiott.com",
@@ -207,7 +232,8 @@
         "uid": "2500230526446766",
         "token": "de74596985ba47b3f9caf8346d7cabdf",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "ynlu7o4rudx@icznn.com",
@@ -215,7 +241,8 @@
         "uid": "2500230526159730",
         "token": "029ec879e9e3123c6b5450dd06ca6b85",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "4p7g7i@ezztt.com",
@@ -223,7 +250,8 @@
         "uid": "2500230526100544",
         "token": "dc2b73355db52284c3cd9fda3973b6e6",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "nmjrmitn@icznn.com",
@@ -231,7 +259,8 @@
         "uid": "2500230526923448",
         "token": "f004ea5a66091a6fdf8cc6e340e36de4",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "5qkjta9vky25@kzccv.com",
@@ -239,7 +268,8 @@
         "uid": "2500230526200848",
         "token": "b3068d30d592fedd8ec204e489fc6c3d",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "c8vasc4of@kzccv.com",
@@ -247,7 +277,8 @@
         "uid": "2500230526613325",
         "token": "523c11ebb2f67885d9c37af4495097fc",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "qwl3d6ka@kzccv.com",
@@ -255,7 +286,8 @@
         "uid": "2500230526303617",
         "token": "58bdf7eb4c43eb938dcc8cacf3fc63f8",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "yoa6esqw2va@wuuvo.com",
@@ -263,7 +295,8 @@
         "uid": "2500230526579423",
         "token": "9321a3071bd75eff0dc7fb4a2ca92b5d",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "en22gxvr8p@ezztt.com",
@@ -271,7 +304,8 @@
         "uid": "2500230526200812",
         "token": "5d66e29719ddb440e16fcfe333045fec",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "tiiuvhoo@kzccv.com",
@@ -279,7 +313,8 @@
         "uid": "2500230526600577",
         "token": "d0c48cb550e984891178af7104e6b7aa",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "hez157hh@wuuvo.com",
@@ -287,7 +322,8 @@
         "uid": "2500230526033357",
         "token": "8812d3024c4ab0da9bef2619eb9a1b6d",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "x5po07rt9f@ezztt.com",
@@ -295,7 +331,8 @@
         "uid": "2500230526271569",
         "token": "daa0aaf60e5914fb51774b8522899997",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "tltp9jq08z8z@ezztt.com",
@@ -303,7 +340,8 @@
         "uid": "2500230526268633",
         "token": "511496260174d65e830d4d5b55703e80",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "o5k4rzb6jhi@icznn.com",
@@ -311,7 +349,8 @@
         "uid": "2500230526764750",
         "token": "c8f8827a026e412f4d421a78e7bde364",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "0mbfqc@kzccv.com",
@@ -319,7 +358,8 @@
         "uid": "2500230526092144",
         "token": "8f5eddff95a89a4b7226405763f14e3d",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "d6yomi2@kzccv.com",
@@ -327,7 +367,8 @@
         "uid": "2500230526488235",
         "token": "42df3afba28fdce589073f1a9725be59",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "0n0790@kzccv.com",
@@ -335,7 +376,8 @@
         "uid": "2500230526097249",
         "token": "cb9ba2232b13b3019134ad47e529240b",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "x2l4s9m@qiott.com",
@@ -343,7 +385,8 @@
         "uid": "2500230526884010",
         "token": "b985e4b66a7ec4414cc6f9a258e10f2f",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "l6bjnto0j969@qiott.com",
@@ -351,1468 +394,1840 @@
         "uid": "2500230526636466",
         "token": "1ef07d992afa9573b84a9b5688057613",
         "diamond": 79400,
-        "games": 0
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "wgjr3lx6xlo4@ezztt.com",
         "password": "xtrf98wiqdpoboas",
         "uid": "2500230527390367",
         "token": "296ebd9f6aec56d1cb69a3edb2e92d02",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "ne014ptv@qiott.com",
         "password": "tf802m2f7l6jkadg",
         "uid": "2500230527712241",
         "token": "964f667364beb85fd1962f4b3cdf31ac",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "rndozo8qx@kzccv.com",
         "password": "gogp1c5fz2u548p1",
         "uid": "2500230527671397",
         "token": "8a561bda4218c2c29c09079d1db9e660",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "1ku3vfx6v@wuuvo.com",
         "password": "t8i0xgyy5c0h35s0",
         "uid": "2500230527818394",
         "token": "0164c4997e52a1cbc213f33983c8e645",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "7olaxf08@icznn.com",
         "password": "a8uk86ee84tvvjqn",
         "uid": "2500230527149228",
         "token": "f0a494db1a05e17da272743e9fe27cca",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "ctypy9dluej@icznn.com",
         "password": "cs9prdvd9uz5dq08",
         "uid": "2500230527376268",
         "token": "51f720a7c26c7de83caa9b236596072c",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "bw6c9hx@ezztt.com",
         "password": "d6vmr7op74veo4g2",
         "uid": "2500230527115149",
         "token": "716ff48fdd5fc55b86cb3332ab132024",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "wmropf4rqv5@icznn.com",
         "password": "bw4mmc1r1mplceqm",
         "uid": "2500230527488072",
         "token": "c2b51c48459fe0fbd433ae2f64c3e514",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "qpnpulqdujva@wuuvo.com",
         "password": "07v3f9t1moxo4xwj",
         "uid": "2500230527528564",
         "token": "127a7af4924b53bc00b5c8b4a35e72d1",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "7x6z8lb32f9@icznn.com",
         "password": "4wd98vr84yezfqr0",
         "uid": "2500230527554863",
         "token": "a6af48db2400a1149e72a0a6caa8d068",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "6774pn9r@wuuvo.com",
         "password": "ermm8qkbun6lkub9",
         "uid": "2500230527697234",
         "token": "6dabe17a713bc0126feae7c040167000",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "7z89ty8@kzccv.com",
         "password": "pp6z0l5c8odccso6",
         "uid": "2500230527674188",
         "token": "5703af24a148adcce1d58d2d2710ece2",
-        "diamond": 75600
+        "diamond": 75600,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "lx0fceaaoqx@icznn.com",
         "password": "jjbb5r0mq8k10sd3",
         "uid": "2500230527758684",
         "token": "c0b92f363265dca6a5339e5ca5ef35e3",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "jkvhpj9lt0c@wuuvo.com",
         "password": "sc66ljawcxiaofah",
         "uid": "2500230527811178",
         "token": "2c33e6b9757839a0401d1c951eea5659",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "adh071aoc5i@wuuvo.com",
         "password": "db7rsxec7n557t1a",
         "uid": "2500230527857843",
         "token": "00fa92acb0cff6fa9a2743959cef6fb4",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "hmrf6odx@wuuvo.com",
         "password": "0qfqmvtndzzvfwh9",
         "uid": "2500230527946597",
         "token": "3258c6e6b95d15c4afc1115b69a56770",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "e4nfjv@wuuvo.com",
         "password": "bqqkdvuypmuapkak",
         "uid": "2500230527971194",
         "token": "136ce24a7c7d5f742228ea0235db339c",
-        "diamond": 75200
+        "diamond": 75200,
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "qd6uec3o@wuuvo.com",
         "password": "xf2qckjvfytcxytr",
         "uid": "2500230527617185",
         "token": "87bec70c10fb3d604eb7029e00221752",
-        "diamond": 75200
+        "diamond": 75200,
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "oxuq9ih6x@icznn.com",
         "password": "kdwxjqqms1ynqray",
         "uid": "2500230527094147",
         "token": "17a9f4726620b41e444d557c18c7b0c9",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "08smwxe8b@kzccv.com",
         "password": "ecwlemucevnxlufs",
         "uid": "2500230527633295",
         "token": "5023336414cec83e779c1b2355f07de2",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "v4vx7yufsns5@ezztt.com",
         "password": "9dx5k45f05twhw0m",
         "uid": "2500230527990601",
         "token": "d14ef9e7cc08b0a49192a21eca96316e",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "640pajrw9at@kzccv.com",
         "password": "fzlo7105byejxl57",
         "uid": "2500230527213637",
         "token": "d0cc38d1eb372c1204f88a7167cb9756",
-        "diamond": 75600
+        "diamond": 75600,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "5zzympxj21u@wuuvo.com",
         "password": "7b87krlfh0axepkl",
         "uid": "2500230527518788",
         "token": "69dabba44684d72326fb71c0f75bdc2c",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "aznhfe1qm5@qiott.com",
         "password": "3pgd0sotbsjmhq10",
         "uid": "2500230527835041",
         "token": "99a05550fd9989dfd69a43cc82d696a7",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "lnyo3399634u@qiott.com",
         "password": "6356yer5x1tzb2go",
         "uid": "2500230527850458",
         "token": "ebec41353036546400f8aeef5e7ec4d1",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "3wkpo2@wuuvo.com",
         "password": "o9bbj1yg0b657gyw",
         "uid": "2500230527605829",
         "token": "44a369927e29b59b64726db7eac7d433",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "3bxnzs5edsbv@icznn.com",
         "password": "nmtkd9wjt9e1p4b9",
         "uid": "2500230527956265",
         "token": "dbc99d87130fdafa018fdb9535d51df0",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "03j320@wuuvo.com",
         "password": "861pp2s1a95y1dks",
         "uid": "2500230527415386",
         "token": "d626bbe13403e4717d383ab0abc3b9cd",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "jzjlq70lwq0p@kzccv.com",
         "password": "d1rmo2gdpj91rgnw",
         "uid": "2500230527867928",
         "token": "53eb5a99ce6b3d584359252ce90ce0ab",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "spize5q@kzccv.com",
         "password": "9xld3uk4qm4dbhjg",
         "uid": "2500230527351541",
         "token": "3850706727e9128e0b23ffc0deaa401c",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "mrohkmltlui@kzccv.com",
         "password": "o1oqi93pqf4we123",
         "uid": "2500230527509338",
         "token": "6d986676f5632afeea01a020cfe0292f",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "a6nt88l1@wuuvo.com",
         "password": "n627m1ap7svxl8ki",
         "uid": "2500230527729384",
         "token": "ba3b808c22aa9ef0ea59c43d4259e1f0",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "n2zyorhlbr@qiott.com",
         "password": "k4krp9x0rxn4pyra",
         "uid": "2500230527386613",
         "token": "b78fffe874365d6d75a21fe9efbe4b95",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "8tu9ff5t@ezztt.com",
         "password": "m1qmh80k4i16c4wj",
         "uid": "2500230527227878",
         "token": "48c21ac640428e6d49ae3c0381ba1119",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "hfnir4xlzf@kzccv.com",
         "password": "enzpiu09u408dqs0",
         "uid": "2500230527881390",
         "token": "6814eb1871f057ce008e8ac1a6b8305a",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "3s2fyn9j@icznn.com",
         "password": "0h9g462ew80fklcy",
         "uid": "2500230527628900",
         "token": "0f48dec8a35259ceb73e882352df056c",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "DOESN'T HAVE ANY GAMES",
+        "games": 0
     },
     {
         "email": "6yg7hga16rp@ezztt.com",
         "password": "fmmw93ny4882uxcd",
         "uid": "2500230527773371",
         "token": "a20f4df96fe4a1deeb0eb54b0510309c",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "prdd6f@qiott.com",
         "password": "25h5xaz6s8s3eefv",
         "uid": "2500230527995443",
         "token": "af9f5254aadcedf6c87bc0e25c8335a6",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "s7njf6tvvmai@ezztt.com",
         "password": "khknuw1z5i36n3h2",
         "uid": "2500230527547204",
         "token": "c96cf33998004a98fff6edb46b170e2f",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "d9ti2ml0eilg@kzccv.com",
         "password": "6lswdqb6a8fwoaum",
         "uid": "2500230527840099",
         "token": "337a9dcb4e21c3cfd3aeb868f48674e2",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "76u53byzb0@icznn.com",
         "password": "8c03cf2fj3bdryv4",
         "uid": "2500230527431269",
         "token": "d242794423fce82e547f8a2421603a88",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "i5ia45@ezztt.com",
         "password": "ialdkpl606csb1sw",
         "uid": "2500230527138591",
         "token": "86402570990531741440f5b163fe887b",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "mdughyekcc@icznn.com",
         "password": "9lzb9v7zk2485ngy",
         "uid": "2500230527484785",
         "token": "1b23c7ec0a51412f100e4caed7935128",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "mfpo9lohvgbv@qiott.com",
         "password": "kvrbyz0dw3gn3w72",
         "uid": "2500230527738776",
         "token": "534aeabbf2d1418dc101f46a251db249",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "t5erl5asg@icznn.com",
         "password": "21jii6s13ly0l9su",
         "uid": "2500230527472860",
         "token": "740324ebfe3a5cc1f558fa3156807d38",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "7s5trqym@qiott.com",
         "password": "06d5n3rw5ukegnn8",
         "uid": "2500230527406147",
         "token": "d2db3d2ef5ad5e658f8e7279ad02cf09",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "3r1uo8@icznn.com",
         "password": "pfwewd2mkeygkbqp",
         "uid": "2500230527252676",
         "token": "c8417c8591c700642d78d2afec70c377",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "uh7rbxkpw@ezztt.com",
         "password": "b2puk1cknph85z63",
         "uid": "2500230527883308",
         "token": "642b77ae8950c5a27a03c8d42dfdf0c8",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "58w5gm6rss7@ezztt.com",
         "password": "mfq8k8rkfhsot1d3",
         "uid": "2500230527919716",
         "token": "9f29f2f555483bc5c094d6c766f3fb94",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "9a5v2s@icznn.com",
         "password": "aqr0yy3548vryy9g",
         "uid": "2500230527108295",
         "token": "b66c34bb9fb667cfbbf40b19a0aba54d",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "4kqdgetd@qiott.com",
         "password": "5syltrfky3clzgpg",
         "uid": "2500230527631031",
         "token": "69bd0acd07e6b85a6ecd1650ab0fb32d",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "rfoxu3nlai@ezztt.com",
         "password": "o137dv9g1yubsf39",
         "uid": "2500230527827906",
         "token": "302441587219ad7fc6451521885712ac",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "p19dg1t@icznn.com",
         "password": "jykkabymmouthzgb",
         "uid": "2500230527323378",
         "token": "397496db54f7ce627b2c0ffec997bc81",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "i3n201@icznn.com",
         "password": "xh5r3dzhdzvs23ej",
         "uid": "2500230527196910",
         "token": "8ced279eb3fe55bbb75bcc72d02146a8",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "fvvogv@ezztt.com",
         "password": "fayh4d4ffux8gkgv",
         "uid": "2500230527522775",
         "token": "0f753b3a1e1439fbafdf014cb3b31226",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "rrqm9783o@icznn.com",
         "password": "ix8wsazkcif2auhx",
         "uid": "2500230527928821",
         "token": "ae50f582473466fdbee4a6bb649b4d4c",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "udawtdau@ezztt.com",
         "password": "hauaa4unn576b2j9",
         "uid": "2500230527080576",
         "token": "b1e9058504bfc2f96f99d040bdf64105",
-        "diamond": 75200
+        "diamond": 75200,
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "lm0uiqe7wu59@qiott.com",
         "password": "530zut55h58pulzj",
         "uid": "2500230527078759",
         "token": "3472c79ff21236ca7c9b59b0688e39ae",
-        "diamond": 75200
+        "diamond": 75200,
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "5fac5qzyqk@qiott.com",
         "password": "cqpnvtd5oifu89v3",
         "uid": "2500230527132729",
         "token": "0d4567b42aa2da2992249f09f29f75ce",
-        "diamond": 75200
+        "diamond": 75200,
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "nnbtcu9@qiott.com",
         "password": "3xrgiypzbdndppvy",
         "uid": "2500230527873748",
         "token": "436031b7247d123ae950a6ad133e05df",
-        "diamond": 75200
+        "diamond": 75200,
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "jr9zdzo@ezztt.com",
         "password": "2ofih30vyy0l6ije",
         "uid": "2500230527064995",
         "token": "439083480411749d286e8b60afa595c5",
-        "diamond": 75200
+        "diamond": 75200,
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "d9vk3gtv4l@icznn.com",
         "password": "fbq6cacuny21owlg",
         "uid": "2500230527884714",
         "token": "9f31929592f35549c3122b33c4531f48",
-        "diamond": 74800
+        "diamond": 74800,
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "sybuj94j7oal@qiott.com",
         "password": "iuilgvvh8avnjtn4",
         "uid": "2500230527478410",
         "token": "01ee9f24ee2901778f7102e1741f7cbc",
-        "diamond": 75200
+        "diamond": 75200,
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "rn0b0s@wuuvo.com",
         "password": "t5aqpu1dgm1r8qeq",
         "uid": "2500230527644912",
         "token": "fee05896e9bd7e9b495337bd80fbfaf0",
-        "diamond": 75600
+        "diamond": 75600,
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "fkiezuleoj@qiott.com",
         "password": "8vb74yflzoptmq29",
         "uid": "2500230527385656",
         "token": "fcb0e50ffdd5ecb18a1588aa16d5eb10",
-        "diamond": 75200
+        "diamond": 75200,
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "rd5mfn@ezztt.com",
         "password": "qojgqbt1xztyhu5y",
         "uid": "2500230527441839",
         "token": "4d392689a3a96bed6c57ce0b69d5ca84",
-        "diamond": 75200
+        "diamond": 75200,
+        "games": 0,
+        "status": "COMPLETE"
     },
     {
         "email": "5ztocanep2p@wuuvo.com",
         "password": "vvbon078sr807bay",
         "uid": "2500230527181392",
         "token": "ebe85de6eb70279d51d60a4d75c0394d",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "8f1vhgx2iwze@wuuvo.com",
         "password": "mcqf6xeyxmt1ucps",
         "uid": "2500230527005908",
         "token": "d708fba3a00bcdde29ac7de3f887ce1d",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "n37906da@kzccv.com",
         "password": "upeqjhnpqdh0wsg7",
         "uid": "2500230527535697",
         "token": "7350c5da8d76449de870d1b89c07fbb7",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "le6bsi@ezztt.com",
         "password": "n3iq7wt2ozgzsyns",
         "uid": "2500230527843178",
         "token": "02310605837ee0afcc2f1ff4d01bcf6d",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "vif8lvt6zr2@wuuvo.com",
         "password": "o5gvyzi3bb80fs2n",
         "uid": "2500230527382844",
         "token": "74818e9c8d177782ca85b43c57bc6020",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "om68map2i1@wuuvo.com",
         "password": "0qa0a9q0q5i1zymt",
         "uid": "2500230527225987",
         "token": "ef6f6a31abbb579fcb2f2959d920203d",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "nj4u7eu9yy2@wuuvo.com",
         "password": "tf9cyf7uzssw7gtc",
         "uid": "2500230527710203",
         "token": "eb758cb3266aa09e08581a93bbb81740",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "8nqwrs@icznn.com",
         "password": "v5y094wwdwkkrd9t",
         "uid": "2500230527600881",
         "token": "7d6ab19108da8300d1c5dfb9d6dbf267",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "foawuzy@kzccv.com",
         "password": "plzh4g0tpxq0v20w",
         "uid": "2500230527159515",
         "token": "c6970c619ceb55e8721892a276c2e0dd",
-        "diamond": 62400
+        "diamond": 62400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "r1uv5j0iur@icznn.com",
         "password": "f0swvdwl7klrif05",
         "uid": "2500230527315976",
         "token": "8ef33fbb9c59a1bf0df1d3418b2dfc18",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "c835gm@ezztt.com",
         "password": "vm91a5pjht7yxerf",
         "uid": "2500230527387499",
         "token": "3a0ce3615e2569d9d128a72e37b878d7",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "tdns2eqrto@kzccv.com",
         "password": "07kjxuyaokriro2c",
         "uid": "2500230527135454",
         "token": "d4be3671b4c7e827ee0975c409cb5d6e",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "e9uotm3r4krg@ezztt.com",
         "password": "ajuppu4hgoyw70n5",
         "uid": "2500230527144324",
         "token": "3f162e9cb9a44aaa61a8a7df2824a983",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "opdi46v6ay@qiott.com",
         "password": "58cqlk9r9kl2abqn",
         "uid": "2500230527642658",
         "token": "08bb423081e997a32a4500d122a2904e",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "nyzska39@kzccv.com",
         "password": "megwxmgqbz8vkboa",
         "uid": "2500230527357259",
         "token": "44fc4f9a1fe29569f17599f77952f959",
-        "diamond": 74000
+        "diamond": 74000,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "jaswugm1@ezztt.com",
         "password": "4y5d90f6ta38p3q5",
         "uid": "2500230527439650",
         "token": "c58d5ff850b1126d85740b85b06c037e",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "tuhpemhqis@ezztt.com",
         "password": "72brssvn3p7ihlng",
         "uid": "2500230527761314",
         "token": "87e0c669e9c0a4b7035ff3966e4dcd2e",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "80wpv8zca44j@qiott.com",
         "password": "sg5fpc8avzczaf14",
         "uid": "2500230527502891",
         "token": "ef4c042db975e9cba520557501be18ca",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "8dbnj0i4kyz0@ezztt.com",
         "password": "a177b4336nvfoz7c",
         "uid": "2500230527361894",
         "token": "76c35bff2ab1b10c57cde384119b1e7f",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "8jz3vk64x@wuuvo.com",
         "password": "eeys28jlq3jqxf7n",
         "uid": "2500230527461963",
         "token": "eb7cf41f2a1f6155797a66d044db91dd",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "4jcxnjx7yhf@icznn.com",
         "password": "o7vxd9vpgmjsnpdh",
         "uid": "2500230527598889",
         "token": "19fbcc514d7bd72b065ccb728412ca5f",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "m8snzj@qiott.com",
         "password": "le0kit6io5vhnvgl",
         "uid": "2500230527210668",
         "token": "f44b134b2b04de6af4114d2df98495e5",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "c4x286fa@icznn.com",
         "password": "hfg2n94yk4qunwlp",
         "uid": "2500230527557015",
         "token": "fd8f8949a47fd84a19e765eb7c7f2a7f",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "vfp2i6abbg@qiott.com",
         "password": "k6n38aouh2ihcl8g",
         "uid": "2500230527875370",
         "token": "90f658858a3e5a9c0f57b44fe4a824d7",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "eesgur@icznn.com",
         "password": "cp6xezx6r6ldtg0y",
         "uid": "2500230527535636",
         "token": "89879a9ae21d2bf6e33f93b87ca54ea2",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "syoyfl2m1v7@qiott.com",
         "password": "wa06o5hh5ks01k7z",
         "uid": "2500230527900200",
         "token": "8345e5fb7fafc5b4bce1efb4fc50b44c",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "qmifz7y@wuuvo.com",
         "password": "5k9frv9kh0fcoyzo",
         "uid": "2500230527016962",
         "token": "93238ac9a8eec0bc5f1bad4fa0fcd713",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "zg29u4@qiott.com",
         "password": "voe21ubeeigxxk1x",
         "uid": "2500230527141499",
         "token": "f5849afe5ca09d400bc1de9d11e5b74f",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "fopr1tw7c@icznn.com",
         "password": "h6g9zcb978qhmoh9",
         "uid": "2500230527430613",
         "token": "251eda84e57e8958109463f4081c0851",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "uwckp0xw2@kzccv.com",
         "password": "8wvk8cmrrepuaypn",
         "uid": "2500230527987343",
         "token": "c0f26fd2863805579a0e18e3faf61621",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "3gaawwuw14c@kzccv.com",
         "password": "q9t2klet2vm0skzt",
         "uid": "2500230527957539",
         "token": "ff103c11c1a2014d19c930f16e5f9618",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "8ewaoxa@wuuvo.com",
         "password": "znxp9j05zsizmv4i",
         "uid": "2500230527142389",
         "token": "1a13fd6b708cbf8d98ea4108f84e0966",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "kcyg53p@wuuvo.com",
         "password": "ugt2riiu1e0oqjk8",
         "uid": "2500230527228855",
         "token": "dc3a93af663e285882259621382eeebb",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "vx5tr2@ezztt.com",
         "password": "z9cb3i60jhbr6je6",
         "uid": "2500230527304915",
         "token": "9ae2ceabaa0ba460145467fcd6207983",
-        "diamond": 74000
+        "diamond": 74000,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "q5bkhwtxrv@wuuvo.com",
         "password": "5zj7od9elt5ozmbp",
         "uid": "2500230527672314",
         "token": "e39b6b9828da86f9ae7a467565672535",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "klmpum@ezztt.com",
         "password": "g03mx712aafflr1y",
         "uid": "2500230527540622",
         "token": "b37340a966ec8d294a2318195c3e842d",
-        "diamond": 62400
+        "diamond": 62400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "jhx984i@kzccv.com",
         "password": "yi1mqmtf3kz5gsv9",
         "uid": "2500230527856001",
         "token": "7024fcb381cc1811303ae990c4359c80",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "fbjnz7@kzccv.com",
         "password": "4zpaqg1fwmnbf5o2",
         "uid": "2500230527591094",
         "token": "aa98bf19331c5ae91de9c73207fee070",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "qpqvm0@icznn.com",
         "password": "8e9x7kgcid9eir82",
         "uid": "2500230527846347",
         "token": "d3c1cb12c4cc67895a64950c43f159b2",
-        "diamond": 74000
+        "diamond": 74000,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "jcf4olpm6z7@kzccv.com",
         "password": "acstlpc9gfob1brp",
         "uid": "2500230527287541",
         "token": "6dcdcdea475c269d47c871bf3753eae2",
-        "diamond": 74000
+        "diamond": 74000,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "ycs67t8fj0a@ezztt.com",
         "password": "9gvfucrrirqkpsil",
         "uid": "2500230527103383",
         "token": "85165d618866daf79ba4afa0f449568d",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "ncvs0cd41m@kzccv.com",
         "password": "870lxbs1l6c3k71z",
         "uid": "2500230527649947",
         "token": "9f33f770b3143bf99536b87e3256b8f7",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "npkld4z0@kzccv.com",
         "password": "kkidgzqi456hol6s",
         "uid": "2500230527954198",
         "token": "3165ce01c913ab577daf32e5ceb15f8f",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "38eo7ak2c@ezztt.com",
         "password": "8nvehyrhmxgo2bgk",
         "uid": "2500230527443307",
         "token": "2a4d9ff098807157ead937587a97e4c8",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "DOESN'T HAVE ANY GAMES",
+        "games": 0
     },
     {
         "email": "m8hl59f14@qiott.com",
         "password": "d77t7n8e6m9u830y",
         "uid": "2500230527996344",
         "token": "a7105d7e1c75db81a30798bb135bc97e",
-        "diamond": 62400
+        "diamond": 62400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "3tz298@wuuvo.com",
         "password": "d5dd0jooe37zjjeg",
         "uid": "2500230527461242",
         "token": "8821ed48cb7b444d37ab9efc395fb66a",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "j813cn07@icznn.com",
         "password": "raowu4arm7ns2vbg",
         "uid": "2500230527456987",
         "token": "997505a9a951d2a12f8897ed150ddcd9",
-        "diamond": 74000
+        "diamond": 74000,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "1z7js6@icznn.com",
         "password": "w07oostouysonnud",
         "uid": "2500230527742845",
         "token": "a1067e8fed561a93e114a0b6d609b6c8",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "x45opqn@kzccv.com",
         "password": "qizlp75ed2xt7moo",
         "uid": "2500230527460065",
         "token": "b22ec2f8fb9edefd5d62d868b1166e5a",
-        "diamond": 62400
+        "diamond": 62400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "02ocei4dj@icznn.com",
         "password": "z7koa1ji59cnukd2",
         "uid": "2500230527677526",
         "token": "a00e4812d3e393f020b600bde5861c98",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "iiupyeo4a@ezztt.com",
         "password": "v1akfggref48bd1z",
         "uid": "2500230527766588",
         "token": "17fb1893c9108a33eb41095e0fbbe086",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "3hzfyrtf37@icznn.com",
         "password": "ds860jrsdf6bbyv4",
         "uid": "2500230527951961",
         "token": "f3e4c051e6b8a0ca502f3cdbf1f0edf8",
-        "diamond": 62400
+        "diamond": 62400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "4xvndfyfxyy@wuuvo.com",
         "password": "s69tv2d8aquydy86",
         "uid": "2500230527997676",
         "token": "7d5ac6e2ad8a639f47ea8f057d429de8",
-        "diamond": 62400
+        "diamond": 62400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "q8r66xba@kzccv.com",
         "password": "n3jgq1o5bu3nxphj",
         "uid": "2500230527787994",
         "token": "46db527619697fd284e26491375dcdd8",
-        "diamond": 62000
+        "diamond": 62000,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "pv4t1qwv@wuuvo.com",
         "password": "tbaz8ar4hiisxl3u",
         "uid": "2500230527590597",
         "token": "b69ac4b18b021d13ea39121a884b5739",
-        "diamond": 74000
+        "diamond": 74000,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "zmyaqp64m@wuuvo.com",
         "password": "p02ks1vglb5tdojg",
         "uid": "2500230527607213",
         "token": "0778e34dfc05536b954774c04c59e90b",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "x4g9k5xm@icznn.com",
         "password": "2gowsyclzx2m5b9e",
         "uid": "2500230527230614",
         "token": "d1cb45f996464cabda8e2ea48cbf249b",
-        "diamond": 75200
+        "diamond": 75200,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "lh13q41p@ezztt.com",
         "password": "fi1287xnozqxwc62",
         "uid": "2500230527887993",
         "token": "e0e1578636dc1837465f3bb7084d4b0a",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "cpmrc7bl@icznn.com",
         "password": "8ceewt1agracfyib",
         "uid": "2500230527219767",
         "token": "7323b9ac270e45e97259cf0af4681b67",
-        "diamond": 74800
+        "diamond": 74800,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "1ld1e3@icznn.com",
         "password": "hqxxolc47qco2ibm",
         "uid": "2500230527036589",
         "token": "af76df95e0a560fb5143dfc2da5a7ed9",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "kpan4r@qiott.com",
         "password": "plilvto9q5sznix3",
         "uid": "2500230527396913",
         "token": "ebd0d0c4ece01a33853a67414d439af6",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "hde6o0@wuuvo.com",
         "password": "8apd38z4qb819sml",
         "uid": "2500230527402779",
         "token": "7312ab3937822118a37afeaf9e25102a",
-        "diamond": 74400
+        "diamond": 74400,
+        "status": "COMPLETE",
+        "games": 0
     },
     {
         "email": "ylzmmlhu5u3l@qiott.com",
         "password": "fnfn4j6b8eajjmf0",
         "uid": "2500230528890498",
         "token": "d6bb29852a0eda11203b20262a52edfa",
-        "diamond": 8400
+        "diamond": 8400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "5f1e058n9@ezztt.com",
         "password": "lk2g4av5krjl8t32",
         "uid": "2500230528948522",
         "token": "d89d46bdb88f67fa73a2e7dd74a0a671",
-        "diamond": 8400
+        "diamond": 8400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "xu59iyrt@wuuvo.com",
         "password": "zybeqaq8dtdiwkv0",
         "uid": "2500230528026248",
         "token": "f7d3574825acedc15730c36b0d6c1012",
-        "diamond": 8400
+        "diamond": 8400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "1focyqck@kzccv.com",
         "password": "ji3cdvcef06a7xj3",
         "uid": "2500230528423232",
         "token": "d4c30f9e206903fe79a572e90e41c540",
-        "diamond": 8400
+        "diamond": 8400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "7i9a5kfdbs5@icznn.com",
         "password": "sis2tun4jo3hhwqa",
         "uid": "2500230528872476",
         "token": "ef52449bdf3fdc94142a4c35a2113c03",
-        "diamond": 7600
+        "diamond": 7600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "k4a0wkt3wn@wuuvo.com",
         "password": "tdua143hgq3vujto",
         "uid": "2500230528442541",
         "token": "b1a4de9f74267fdffa4ff93cdd309020",
-        "diamond": 8400
+        "diamond": 8400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "v50o10eo@ezztt.com",
         "password": "zkbdi4x89p9397vm",
         "uid": "2500230528615584",
         "token": "e3ee8bec1f9c8d1cfdaff04d44501d82",
-        "diamond": 7600
+        "diamond": 7600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "5g811pa4p@ezztt.com",
         "password": "6jkt1tsnw1dwdfmw",
         "uid": "2500230528081139",
         "token": "87bdc914212e06c8c341d0f05a4f0ba7",
-        "diamond": 9200
+        "diamond": 9200,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "mz0wuytc@wuuvo.com",
         "password": "b0vol69yxrsxl68w",
         "uid": "2500230528620485",
         "token": "dae5fc91314ac61b62f70944dd6044b2",
-        "diamond": 7600
+        "diamond": 7600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "tyoex4wqq@qiott.com",
         "password": "td4k3et5ho5hescd",
         "uid": "2500230528807593",
         "token": "22a5efef509cee9897208766b31f0251",
-        "diamond": 7600
+        "diamond": 7600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "ukcndpn7wuk@kzccv.com",
         "password": "6s3jpctrcucdeqvc",
         "uid": "2500230528245017",
         "token": "232716de023800e496f822312280d03e",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "6wvm65ibowz@qiott.com",
         "password": "ohsns92p3382ekz5",
         "uid": "2500230528625415",
         "token": "a5c465ffa2d133ec96a37df86e4e8014",
-        "diamond": 8400
+        "diamond": 8400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "pwz5xjii@qiott.com",
         "password": "bhecjre9kivmx1m3",
         "uid": "2500230528548110",
         "token": "e90b8723029848d977a8b2af474bd5b7",
-        "diamond": 8400
+        "diamond": 8400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "alzmg0yb6de@kzccv.com",
         "password": "h69n7482nz4ng70s",
         "uid": "2500230528806434",
         "token": "f510d0ef9e1cb0e2b1d5af39daf50670",
-        "diamond": 7600
+        "diamond": 7600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "7mu6wu9y@qiott.com",
         "password": "z3bnbr69lsi2klwy",
         "uid": "2500230528363073",
         "token": "5bb95a1bcd1cef68c348186b0ee08704",
-        "diamond": 7600
+        "diamond": 7600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "c3j94ixliwi7@kzccv.com",
         "password": "48jbm9li1o01gyp7",
         "uid": "2500230528892312",
         "token": "edf2ac3c81388fe00b7c37f571777f36",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "xv5192znmj4w@ezztt.com",
         "password": "7r3a2dh495yqzutf",
         "uid": "2500230528506509",
         "token": "d1cb0efdcb0c902a76e145bcfd569302",
-        "diamond": 4400
+        "diamond": 4400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "oiuyov2drxjb@icznn.com",
         "password": "ipv651ax23iiq5mx",
         "uid": "2500230528984172",
         "token": "a99a961cb3d8197f6b440ec43d630fa0",
-        "diamond": 8400
+        "diamond": 8400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "ebjyvuprrr3@ezztt.com",
         "password": "c9ddxr4hf9iamspy",
         "uid": "2500230528017799",
         "token": "6f29b17d17305a48121630608c7be72d",
-        "diamond": 7600
+        "diamond": 7600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "5hqtm3j@kzccv.com",
         "password": "8t7vy4nxuzhqs114",
         "uid": "2500230528849425",
         "token": "5b7d449292f9aa7af08a7a4f083f2b43",
-        "diamond": 8400
+        "diamond": 8400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "90lqkvmzzt@icznn.com",
         "password": "9wder02e5z13hv5l",
         "uid": "2500230528068507",
         "token": "2e58dd2591357c57bddc1cd077372b60",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "xk7wuhi1c5an@wuuvo.com",
         "password": "xzqqnyne3pcyscv4",
         "uid": "2500230528722821",
         "token": "4d5ea54f20afe7ec052eff4c246c9ae3",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "cbuo8xndf8d@kzccv.com",
         "password": "gyb8tmjowhpdrw4r",
         "uid": "2500230528199560",
         "token": "b665a206bd9a2f83e240e6dbe31705d7",
-        "diamond": 7600
+        "diamond": 7600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "4ait9j7@kzccv.com",
         "password": "sjqdx2531wbxwmm9",
         "uid": "2500230528296809",
         "token": "cfaafcb8d45ed424805cbf883001c264",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "61d53copb@wuuvo.com",
         "password": "xgj3l03hjd36gans",
         "uid": "2500230528161017",
         "token": "657ea1b79b8806143d2ad6ac88a080db",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "umtajblach@kzccv.com",
         "password": "ty5x11imlzrnjwnh",
         "uid": "2500230528329094",
         "token": "9589eee122f14a503361f6099a5c4cd8",
-        "diamond": 9200
+        "diamond": 9200,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "dphsril@wuuvo.com",
         "password": "g3zkdotov5ohostl",
         "uid": "2500230528547926",
         "token": "c8a94290dd70bb894034805b454d8e87",
-        "diamond": 4400
+        "diamond": 4400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "q534m8gpf@icznn.com",
         "password": "9r8vujzf6r3nig88",
         "uid": "2500230528712575",
         "token": "7bcd735708f2b99b9271b496307e17bd",
-        "diamond": 4400
+        "diamond": 4400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "hesmzzbp0idv@qiott.com",
         "password": "6pxyle5948so1vpl",
         "uid": "2500230528974585",
         "token": "38675664dafc2b70a465560e859c845c",
-        "diamond": 7600
+        "diamond": 7600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "keejq2dwe7g@wuuvo.com",
         "password": "kgiu8kenqonzkb43",
         "uid": "2500230528584320",
         "token": "3c09137286757bd996190d49dfd8128f",
-        "diamond": 8400
+        "diamond": 8400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "utwdqfm31@icznn.com",
         "password": "9k2hd29w4qosk0uf",
         "uid": "2500230528716869",
         "token": "073da879e86e0b32adce145306f95ed4",
-        "diamond": 7600
+        "diamond": 7600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "f8ji3v8m7@icznn.com",
         "password": "njtmjus7kqwiod3h",
         "uid": "2500230528607209",
         "token": "2a87fc93fa2f074864faadd4561454fc",
-        "diamond": 8400
+        "diamond": 29600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "76m9l3f351u@icznn.com",
         "password": "r68d8iubo5ft7b72",
         "uid": "2500230528595708",
         "token": "305581e27a00fbef04ab82997c07b16a",
-        "diamond": 8400
+        "diamond": 8400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "7fjpindw8g1@ezztt.com",
         "password": "ds6atf9fccwx4xoq",
         "uid": "2500230528192616",
         "token": "05535ab8d013e016cd413b6b27317f1e",
-        "diamond": 7600
+        "diamond": 7600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "bqss3z0cuy@icznn.com",
         "password": "zcziidt9hg632y5p",
         "uid": "2500230528442634",
         "token": "4c7b9dbe3acc24e8b4d576835b279851",
-        "diamond": 8400
+        "diamond": 8400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "ypb65tuumksc@wuuvo.com",
         "password": "x4omru2h167fmd0r",
         "uid": "2500230528070877",
         "token": "10ac019fa488c2e5747ee567eb87b923",
-        "diamond": 8400
+        "diamond": 29600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "yw0yw8h6e4z@ezztt.com",
         "password": "l0iknlwor4yl58ex",
         "uid": "2500230528214145",
         "token": "f0307ea66a05fd4d174a4519e6e99658",
-        "diamond": 7600
+        "diamond": 7600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "xpmjc25dx@icznn.com",
         "password": "et463b66rmixrn1z",
         "uid": "2500230528656140",
         "token": "6cd6485b68916808b3a834e53f03cb0a",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "evwq28@wuuvo.com",
         "password": "vvpkcx8vja9fvi2w",
         "uid": "2500230528566257",
         "token": "74a509db2a61a0398030d2952e94bb93",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "j6l3buvlpf6@ezztt.com",
         "password": "f79b6oifd7f98n03",
         "uid": "2500230528304725",
         "token": "82d4fb43fc2c50c5b87976c8ff669391",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "f3m4mp5p7vbk@ezztt.com",
         "password": "3mp0ph64g1r9gmup",
         "uid": "2500230528941639",
         "token": "f47dce0ba38b6b05a970737fe5159041",
-        "diamond": 4400
+        "diamond": 4400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "kvu6tcwcql@icznn.com",
         "password": "3sc5q8gp6cx4qakk",
         "uid": "2500230528351173",
         "token": "a2a533549fb0054458d85c3ac8d8ebf3",
-        "diamond": 4400
+        "diamond": 4400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "al8pm66i@qiott.com",
         "password": "v97903rx2leqdtft",
         "uid": "2500230528854106",
         "token": "43bbb3f138280bf6a9e751b350819b04",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "kyrhtqw@ezztt.com",
         "password": "r608jkp1ayyz5o8d",
         "uid": "2500230528274038",
         "token": "4750fcaa17fb5d51a715028688e94b9d",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "m020d5z@kzccv.com",
         "password": "e1jk8h1n1le6a41a",
         "uid": "2500230528342111",
         "token": "ca9b356644fe8090f0dcac621edae02e",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "3up3xif@wuuvo.com",
         "password": "wau5c054u5303r77",
         "uid": "2500230528022105",
         "token": "bf0a045a58e505f83edf41127080d0cc",
-        "diamond": 4400
+        "diamond": 4400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "i8kssdekx@qiott.com",
         "password": "d39f05vghtfg7xm7",
         "uid": "2500230528343756",
         "token": "cbf581366670ed958b2e3d1b4379ef77",
-        "diamond": 4400
+        "diamond": 4400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "o1e4nq@ezztt.com",
         "password": "668eospn49wxqqyl",
         "uid": "2500230528179512",
         "token": "d6576dfef785296d7bd50f48ba782755",
-        "diamond": 4400
+        "diamond": 4400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "ea6lingzpjof@wuuvo.com",
         "password": "paej7aaervid2vmo",
         "uid": "2500230528396903",
         "token": "18fbf69a649ce3851f461761c7d5af54",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "kkvlmiy@kzccv.com",
         "password": "46c0wasggl0g1hvk",
         "uid": "2500230528367380",
         "token": "44dc8bc8b57f2a1a7b973a731787b3ff",
-        "diamond": 4400
+        "diamond": 4400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "mb5l1hnzsg@qiott.com",
         "password": "zm7mqvz4a3hql327",
         "uid": "2500230528786690",
         "token": "d4d2dba8dde3db6de5dbf9ff1cf9445a",
-        "diamond": 4400
+        "diamond": 4400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "frekqzd05ev@qiott.com",
         "password": "4tgkgat8yubd6cke",
         "uid": "2500230528815232",
         "token": "435e72b41fbb7ba5f1269a05cacbdfd0",
-        "diamond": 4400
+        "diamond": 4400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "gv2zm8xzd@icznn.com",
         "password": "e7l98ttn11rl3gz7",
         "uid": "2500230528591141",
         "token": "23626259a2d964088b234ec3125551bf",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "hf0ipfb7mn9@qiott.com",
         "password": "2wxsjrb2bz9pq4sh",
         "uid": "2500230528129334",
         "token": "e4420300ab29b5b77996099a8be44f28",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "1eqn4l@kzccv.com",
         "password": "8rrfrabab6zxox37",
         "uid": "2500230528384991",
         "token": "20e03041e2fde4079cbbd15b920b75da",
-        "diamond": 4400
+        "diamond": 4400,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "i4s3a9e@kzccv.com",
         "password": "910rv76qjqtioajp",
         "uid": "2500230528531005",
         "token": "c47a5ef02bbb0a5911172fe2df1a6866",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "7ro0c1gjjt@qiott.com",
         "password": "9voefw1wsgav4yve",
         "uid": "2500230528478418",
         "token": "df1d41e0734f31c982bf2f30e5526e97",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "civ4btj@kzccv.com",
         "password": "lct9t2ryu8db1ace",
         "uid": "2500230528227333",
         "token": "b57d819435fcd789bd374a629421ad53",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "onir5atajsgc@qiott.com",
         "password": "ki5yognm1mgvzi0t",
         "uid": "2500230528785419",
         "token": "7798295374231e84d80f1a040fc47cf7",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "u7g4nfs4ruqh@qiott.com",
         "password": "v452fzd0ksx2gfsp",
         "uid": "2500230528281992",
         "token": "e0791d9a86774aefc2383d1f3c215841",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "ssyenb04a@qiott.com",
         "password": "ivfnn3c4pq5gqdqb",
         "uid": "2500230528890211",
         "token": "cbbfd58964339cd70ad7bdc8a42ad6a6",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "29zkpbg@icznn.com",
         "password": "6ksaawjntlo9r6gw",
         "uid": "2500230528578569",
         "token": "1dea34cdc02d746361481c0131910358",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "6ebbjfecrf8h@icznn.com",
         "password": "qgmwm79tm1jisq5d",
         "uid": "2500230528569396",
         "token": "2a920cf1cd424ad82f5b40ef9639cbff",
-        "diamond": 3600
+        "diamond": 26000,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "wesdzlarvm@wuuvo.com",
         "password": "zke2qwucnqura65t",
         "uid": "2500230528083055",
         "token": "e44f20a5bfd57f5c125e451392171d40",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "a1d0v308v@kzccv.com",
         "password": "7c0777w8h4s5i7zs",
         "uid": "2500230528474251",
         "token": "73ea0c63277fa2f7b61ff19ae242a7a1",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "twourphlp@qiott.com",
         "password": "zf2q2895h58offbu",
         "uid": "2500230528161157",
         "token": "a63d699d7b85cc5362aa7d7ccfcb53d4",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "4ntekz0p7@ezztt.com",
         "password": "vdu5gp4qqqucresw",
         "uid": "2500230528179095",
         "token": "c61b4ca8672b578b083a17fd6d122fbb",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "x28fomhy@wuuvo.com",
         "password": "zvizib15foi38pbo",
         "uid": "2500230528511179",
         "token": "eb6de548a0fb31adc49a50cb7f2a1cc5",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "nvd2lewd@qiott.com",
-        "password": "amn1bowva87xh75d"
+        "password": "amn1bowva87xh75d",
+        "uid": "2500230528018930",
+        "token": "58cc778abba3490dd9134bec31f9fa0b",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "8cvckl3p@qiott.com",
-        "password": "9j76oitlbh5f5e5u"
+        "password": "9j76oitlbh5f5e5u",
+        "uid": "2500230528192937",
+        "token": "0f9f1f402d8a70af4cedce27f3b532d2",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "3eturz1v@qiott.com",
         "password": "7des8kees7y7vxkw",
         "uid": "2500230528552975",
         "token": "af010e717e87c877984ef84f774d414d",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "gp2drhvt0@qiott.com",
         "password": "wf2ul8dpise0ggx2",
         "uid": "2500230528154047",
         "token": "2a8059f6974b1564ead5b5e5522f9dc3",
-        "diamond": 3600
+        "diamond": 3600,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "bvrmq3072@icznn.com",
         "password": "8kftovmj8z6f33p4",
         "uid": "2500230528292553",
         "token": "0156ab7503e5a0fc8ce38064a021f2f2",
-        "diamond": 3600
+        "diamond": 24200,
+        "status": "INSTALL FAILED"
     },
     {
         "email": "samkikuc9q1@qiott.com",
-        "password": "a7ld7cmzh9im0d1c"
+        "password": "a7ld7cmzh9im0d1c",
+        "uid": "2500230528241798",
+        "token": "b814835a232babee2d8833043f540474",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "pbbtubl@qiott.com",
-        "password": "8inwhig1n09nfhey"
+        "password": "8inwhig1n09nfhey",
+        "uid": "2500230528189082",
+        "token": "cb4eb2f41be4c53871f89aeba7d6398b",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "yx50lqr@kzccv.com",
-        "password": "g19lufvhi80zo1nk"
+        "password": "g19lufvhi80zo1nk",
+        "uid": "2500230528537554",
+        "token": "d237279fa1b31017ddafadfb114c1c18",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "gv9i6afi@icznn.com",
-        "password": "7mjouekt08t9u1mf"
+        "password": "7mjouekt08t9u1mf",
+        "uid": "2500230528242443",
+        "token": "9213d6de225672bb31a3fc2d040767e3",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "b4ctx3@ezztt.com",
-        "password": "yb56ex12wrxayunv"
+        "password": "yb56ex12wrxayunv",
+        "uid": "2500230528400364",
+        "token": "9f0e313d76a41e32c1f962dba64549a0",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "otf6a3rn@wuuvo.com",
-        "password": "zlvvitlpryt0f43a"
+        "password": "zlvvitlpryt0f43a",
+        "uid": "2500230528952499",
+        "token": "71716b457b8cb4f9e9e82deebe828ef6",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "vpobauty@icznn.com",
-        "password": "ozk8z3vl26nq1vwo"
+        "password": "ozk8z3vl26nq1vwo",
+        "uid": "2500230528179108",
+        "token": "5ffd4d205d7c4705041107bc51f0af1d",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "3ogljm@qiott.com",
-        "password": "cnz3gp4fhvmv5ycc"
+        "password": "cnz3gp4fhvmv5ycc",
+        "uid": "2500230528992105",
+        "token": "ef5103ac87aba179fadd92e6478106c0",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "m1vszisfnif9@qiott.com",
-        "password": "ynb0jk2y1wig7qpj"
+        "password": "ynb0jk2y1wig7qpj",
+        "uid": "2500230528616142",
+        "token": "03ec2d8c2012d212cf0fa269418ec7da",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "n03tfj1sp@icznn.com",
-        "password": "thezgue8vx1qys1j"
+        "password": "thezgue8vx1qys1j",
+        "uid": "2500230528454189",
+        "token": "505feb21098c098ea0132434cb3bcb0e",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "h6vs1zx3@icznn.com",
-        "password": "ptk6mvnf7wv5bw0p"
+        "password": "ptk6mvnf7wv5bw0p",
+        "uid": "2500230528649897",
+        "token": "ed4350dc93bbb458ffe22bdcc136ba35",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "et0gf0da6a2@icznn.com",
-        "password": "9knqoxid15db6aof"
+        "password": "9knqoxid15db6aof",
+        "uid": "2500230528436076",
+        "token": "2ed99b6d81b357ddd51ad8c7645c8900",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "8nrqsp30@qiott.com",
-        "password": "c6hebbq9oeuuai6b"
+        "password": "c6hebbq9oeuuai6b",
+        "uid": "2500230528098992",
+        "token": "f8d35a48f4a71b3ba5ec4e22b0936289",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "28vss4dm@qiott.com",
-        "password": "eaf05s8b6kxr0tce"
+        "password": "eaf05s8b6kxr0tce",
+        "uid": "2500230528109174",
+        "token": "9e94310fedb7e4cab5b1cf6756cdfde8",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "orf7in73p@wuuvo.com",
-        "password": "n004lp24i0urcli9"
+        "password": "n004lp24i0urcli9",
+        "uid": "2500230528066492",
+        "token": "02811ea18f410afc924a9672eef84a1a",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "a3gq0dbkhj8@wuuvo.com",
@@ -1820,63 +2235,108 @@
     },
     {
         "email": "mk1j0yj@ezztt.com",
-        "password": "4xj0afg53jx22gmj"
+        "password": "4xj0afg53jx22gmj",
+        "uid": "2500230528537219",
+        "token": "196e2fb31ddbcc90b68b2928e8828529",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "xd8fkzsn5@kzccv.com",
-        "password": "to4fynkg50gzgjue"
+        "password": "to4fynkg50gzgjue",
+        "uid": "2500230528571587",
+        "token": "3d88aa78d804f70b43987ed6e5bcbf7f",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "i2ykl33x0ndj@icznn.com",
-        "password": "vjutqfxeyouze62r"
+        "password": "vjutqfxeyouze62r",
+        "uid": "2500230528800495",
+        "token": "fe7927f68984415bf19c49940fe17118",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "c0869086@kzccv.com",
-        "password": "i8izmmt2wcbjo89j"
+        "password": "i8izmmt2wcbjo89j",
+        "uid": "2500230528550727",
+        "token": "6ef73c10c7d933ba5ad895e308e2aa35",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "lz7ryhp65x9@icznn.com",
-        "password": "ewdyylasqxmzy582"
+        "password": "ewdyylasqxmzy582",
+        "uid": "2500230528014628",
+        "token": "860ef82990e1c1e2e34cbd982bedbcfb",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "ijo6yjwekas@icznn.com",
-        "password": "4twxjqetcud628t0"
+        "password": "4twxjqetcud628t0",
+        "uid": "2500230528439131",
+        "token": "55f5524d7975a722d7b770de7a7590fe",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "zitbcfgyu@kzccv.com",
-        "password": "8xs6ozd2yy78rw86"
+        "password": "8xs6ozd2yy78rw86",
+        "uid": "2500230528226021",
+        "token": "a4c85b9a16c4a13ba921a37429aba431",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "kdn8ah6@kzccv.com",
-        "password": "a438d4yczw1rwnxr"
+        "password": "a438d4yczw1rwnxr",
+        "uid": "2500230528481459",
+        "token": "8ce31a40287405866663d02183afeab2",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "denwsw5@ezztt.com",
-        "password": "nznzy699651ezf4v"
+        "password": "nznzy699651ezf4v",
+        "uid": "2500230528124982",
+        "token": "9921cf23fbcd5c31a52ec6fab0253995",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "ezid8l7@ezztt.com",
-        "password": "whumhne9nxg2co8u"
+        "password": "whumhne9nxg2co8u",
+        "uid": "2500230528214978",
+        "token": "14b03ff2a9f42ada0177ca1aba94ab64",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "qlh3wbjlk@kzccv.com",
-        "password": "sx1hgkodj8snfwmw"
+        "password": "sx1hgkodj8snfwmw",
+        "uid": "2500230528850284",
+        "token": "5bff4d5399a30017dae24eb6339d260c",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "xkyiwt@wuuvo.com",
-        "password": "gj01yae04fb5gxld"
+        "password": "gj01yae04fb5gxld",
+        "uid": "2500230528800246",
+        "token": "92e89a9323cc1fd197238c6ee6bd9d3b",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "jmkq8sqqga0@wuuvo.com",
-        "password": "2ordum0rsfzwpg65"
+        "password": "2ordum0rsfzwpg65",
+        "uid": "2500230528108802",
+        "token": "b795d6a1c48cf27e96831dc87cc21ee1",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "a9peak86mlq@wuuvo.com",
-        "password": "fw4mslq8gphfb11e"
+        "password": "fw4mslq8gphfb11e",
+        "uid": "2500230528707876",
+        "token": "29b88d0f49875a7904aabe093c0803f2",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "u4jlevrh@kzccv.com",
-        "password": "ha2in9bc75xztzr0"
+        "password": "ha2in9bc75xztzr0",
+        "uid": "2500230528731506",
+        "token": "12bd17c26fd040a7b7902a4c2234b873",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "yhoijc44@kzccv.com",
@@ -1884,39 +2344,66 @@
     },
     {
         "email": "lo28vwy@ezztt.com",
-        "password": "g5pzqnnr2p8q9dk4"
+        "password": "g5pzqnnr2p8q9dk4",
+        "uid": "2500230528396101",
+        "token": "773cfaa9d06915c6c20858512dbc9d92",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "tg68baar5u@ezztt.com",
-        "password": "5nz0z43r2rb00agh"
+        "password": "5nz0z43r2rb00agh",
+        "uid": "2500230528468142",
+        "token": "67f2fc74a6989ea0e4a624fc5fa281b9",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "h2dk4l94b@ezztt.com",
-        "password": "z4uosaom2fxt5a9y"
+        "password": "z4uosaom2fxt5a9y",
+        "uid": "2500230528011042",
+        "token": "5d89ca5919767a82ea01749dd2010e6d",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "6z44igx@kzccv.com",
-        "password": "renut0icuxfeybau"
+        "password": "renut0icuxfeybau",
+        "uid": "2500230528460427",
+        "token": "e0fd7f86f53161df7367e4f26be31a92",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "nugaab0x@qiott.com",
-        "password": "e90fbqvwxy60s6jn"
+        "password": "e90fbqvwxy60s6jn",
+        "uid": "2500230528951577",
+        "token": "74f70dba121e570f54ca93c3ffe454fc",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "d27cei9@qiott.com",
-        "password": "v8jld4nmll8vkd1l"
+        "password": "v8jld4nmll8vkd1l",
+        "uid": "2500230528546058",
+        "token": "84b3e632c8b4271f1f5495cc46d628ae",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "nfiw22lk0@ezztt.com",
-        "password": "ary1acu494xk8aaz"
+        "password": "ary1acu494xk8aaz",
+        "uid": "2500230528004699",
+        "token": "47ad40cd5538dbd01a8266aa4d01a2b5",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "4pua7ayx@icznn.com",
-        "password": "medu5q64z3sd16oe"
+        "password": "medu5q64z3sd16oe",
+        "uid": "2500230528920711",
+        "token": "587e0f2d395cd6c14fd4f229179b6159",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "psmkydwtuyjh@icznn.com",
-        "password": "fyxwzabd3hnwc14s"
+        "password": "fyxwzabd3hnwc14s",
+        "uid": "2500230528559255",
+        "token": "92824a74301fc8522df561ef653834d5",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "km6od6fv8crv@ezztt.com",
@@ -1924,7 +2411,10 @@
     },
     {
         "email": "ixk9dom7qmn@icznn.com",
-        "password": "9suo0zoqfteiapg3"
+        "password": "9suo0zoqfteiapg3",
+        "uid": "2500230528262045",
+        "token": "16d2e5cd557b184046b6c2d45eca93c0",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "srcoom@kzccv.com",
@@ -1940,15 +2430,24 @@
     },
     {
         "email": "kbk8rok2wlb@qiott.com",
-        "password": "8oxwwsj4rt4rseru"
+        "password": "8oxwwsj4rt4rseru",
+        "uid": "2500230528937073",
+        "token": "e4b0d5fcfbbadca5bebd4d5cf7224b7d",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "xz0dft5@kzccv.com",
-        "password": "ri8w8jyrpkgn8ibn"
+        "password": "ri8w8jyrpkgn8ibn",
+        "uid": "2500230528867278",
+        "token": "334f58d794f3666aa017ca0254de0b59",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "rwop7i1b9y0@icznn.com",
-        "password": "2to6viilnrrmthi5"
+        "password": "2to6viilnrrmthi5",
+        "uid": "2500230528544376",
+        "token": "67f5347d792b115811599cf2c9b3d055",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "54gqockbun8@ezztt.com",
@@ -1956,7 +2455,10 @@
     },
     {
         "email": "uv7ucxbly@ezztt.com",
-        "password": "2pu5i4r6e0vvoliw"
+        "password": "2pu5i4r6e0vvoliw",
+        "uid": "2500230528362110",
+        "token": "ab6ce006b112d592ff34bc5bd9b31c2f",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "gopi7czi@icznn.com",
@@ -1972,7 +2474,10 @@
     },
     {
         "email": "rbjtzrybncj1@ezztt.com",
-        "password": "x1swj6pkub5anj10"
+        "password": "x1swj6pkub5anj10",
+        "uid": "2500230528101550",
+        "token": "f694d17d30b57174fbc26f9bf528ef3a",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "z7j3bns@ezztt.com",
@@ -1984,19 +2489,31 @@
     },
     {
         "email": "soj86u7r@qiott.com",
-        "password": "x185cgcut94veof9"
+        "password": "x185cgcut94veof9",
+        "uid": "2500230528087532",
+        "token": "6af541c316676018f7f6f0cde7a23a8b",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "bgz1xrpsyl@qiott.com",
-        "password": "kss5o0e7051gtt7g"
+        "password": "kss5o0e7051gtt7g",
+        "uid": "2500230528254353",
+        "token": "06ebe3b5f586ae5d9ddc78df13a537af",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "r26kvk@wuuvo.com",
-        "password": "u7h7ou8x2my961q3"
+        "password": "u7h7ou8x2my961q3",
+        "uid": "2500230528561473",
+        "token": "4a6bef6744170997bf774d2d7dafad4e",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "4jg3rsjc@qiott.com",
-        "password": "jodwhh9fntrtkh0x"
+        "password": "jodwhh9fntrtkh0x",
+        "uid": "2500230528526313",
+        "token": "0cf9d480dc219757f6b0d451a76d05b0",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "cwt9wbpa5j27@wuuvo.com",
@@ -2016,15 +2533,24 @@
     },
     {
         "email": "2bmsfqxhsk@ezztt.com",
-        "password": "ytzu3vnagswfk7dq"
+        "password": "ytzu3vnagswfk7dq",
+        "uid": "2500230528339218",
+        "token": "fb64fe1ef4a913e4e5954a7ed7277e5a",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "u319s56w9z@wuuvo.com",
-        "password": "fikzpdv0ueachjce"
+        "password": "fikzpdv0ueachjce",
+        "uid": "2500230528399771",
+        "token": "596f35e6d4240ebf610d1cd9ebb12e16",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "m9unuv6fnb9w@wuuvo.com",
-        "password": "q2rtoq33ynop5etd"
+        "password": "q2rtoq33ynop5etd",
+        "uid": "2500230528698868",
+        "token": "6334124df978498b56df087d32634951",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "qwjqkw89oh8a@kzccv.com",
@@ -2032,7 +2558,10 @@
     },
     {
         "email": "65cxf2j@kzccv.com",
-        "password": "9ds5yla4qfytjuhi"
+        "password": "9ds5yla4qfytjuhi",
+        "uid": "2500230528149358",
+        "token": "9240274a669617bbfd919a65be7f363e",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "6e8a283vty@ezztt.com",
@@ -2040,15 +2569,24 @@
     },
     {
         "email": "0kyf6d9y@wuuvo.com",
-        "password": "rk9k3gdti6ll1ixd"
+        "password": "rk9k3gdti6ll1ixd",
+        "uid": "2500230528579810",
+        "token": "a92fb56ed8d13a0843bd765ee1955d77",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "r6bnjtpnqv@icznn.com",
-        "password": "7li2z37xgnasze42"
+        "password": "7li2z37xgnasze42",
+        "uid": "2500230528382198",
+        "token": "cb1acbb4fa608bc9b8658d37d9aaa07b",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "gae916@icznn.com",
-        "password": "36b5u4j5chv70n4m"
+        "password": "36b5u4j5chv70n4m",
+        "uid": "2500230528119332",
+        "token": "12771c9a6ea3e4c9352e20b0f3e59dae",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "7sh3nqbul7s@kzccv.com",
@@ -2056,11 +2594,17 @@
     },
     {
         "email": "x5q0oh@wuuvo.com",
-        "password": "byp6ubtb7m7fs9kc"
+        "password": "byp6ubtb7m7fs9kc",
+        "uid": "2500230528835254",
+        "token": "c0165a398062c170d20dd80053d11dd4",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "czwrqgs7z@wuuvo.com",
-        "password": "ea6cbf2ee0azpmd5"
+        "password": "ea6cbf2ee0azpmd5",
+        "uid": "2500230528160887",
+        "token": "cfec004fc34f261e76d5fbe44b106b3f",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "9lm23glk0rt@icznn.com",
@@ -2068,15 +2612,24 @@
     },
     {
         "email": "wmzfnks@ezztt.com",
-        "password": "nxiffukpcn3taqd1"
+        "password": "nxiffukpcn3taqd1",
+        "uid": "2500230528079646",
+        "token": "16e9933562bd5d0587bae802aa48c01e",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "vzw88s@kzccv.com",
-        "password": "5t3ka3zt3ntnedih"
+        "password": "5t3ka3zt3ntnedih",
+        "uid": "2500230528094216",
+        "token": "5915edb0004bd2163026d3e8b0e57204",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "p99ljv@qiott.com",
-        "password": "qgfaqvd2bdnbu0n0"
+        "password": "qgfaqvd2bdnbu0n0",
+        "uid": "2500230528098117",
+        "token": "86ce3edd463aef735305dba95b30e90e",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "wp5zilku@icznn.com",
@@ -2084,7 +2637,10 @@
     },
     {
         "email": "kuphh90kx@wuuvo.com",
-        "password": "ynqgvw4sfbj9ddvk"
+        "password": "ynqgvw4sfbj9ddvk",
+        "uid": "2500230528583297",
+        "token": "356c1d48fb1567ef511af0140a685361",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "eytn35os6@wuuvo.com",
@@ -2092,11 +2648,17 @@
     },
     {
         "email": "ue2o7v3ir@qiott.com",
-        "password": "8owcdbwwasymmwl8"
+        "password": "8owcdbwwasymmwl8",
+        "uid": "2500230528030311",
+        "token": "8d02354357b3be79bbb060232a2c87c1",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "blkg89@kzccv.com",
-        "password": "bz7lcipa1ywark4b"
+        "password": "bz7lcipa1ywark4b",
+        "uid": "2500230528351610",
+        "token": "e016f47581a453901d700fc72078163a",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "7hakzqmw@ezztt.com",
@@ -2108,7 +2670,10 @@
     },
     {
         "email": "4w0k80hgnael@kzccv.com",
-        "password": "hg1eiz6lnwee6k63"
+        "password": "hg1eiz6lnwee6k63",
+        "uid": "2500230528171975",
+        "token": "dd01037053bf1167c8e1e37a05802dff",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "z39qh2uj79@icznn.com",
@@ -2116,7 +2681,10 @@
     },
     {
         "email": "7qnmjuoj@ezztt.com",
-        "password": "bh6zro1hzztwsvrj"
+        "password": "bh6zro1hzztwsvrj",
+        "uid": "2500230528905236",
+        "token": "7f6cb01c039933e15608a8758113a48b",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "loeqv23@wuuvo.com",
@@ -2132,7 +2700,10 @@
     },
     {
         "email": "5ki26jabt@ezztt.com",
-        "password": "sknucdgksktmrsbj"
+        "password": "sknucdgksktmrsbj",
+        "uid": "2500230528466810",
+        "token": "eadffe5235809971f8981478c37c0b8b",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "xceruixy@qiott.com",
@@ -2140,7 +2711,10 @@
     },
     {
         "email": "4n6kpyw9aru@kzccv.com",
-        "password": "dtk783n7g05z9o7x"
+        "password": "dtk783n7g05z9o7x",
+        "uid": "2500230528674172",
+        "token": "b68ff1969949765977fce3f530d49e33",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "kj2pnufo@wuuvo.com",
@@ -2156,7 +2730,10 @@
     },
     {
         "email": "ej1jqu@kzccv.com",
-        "password": "mo1m910scxsqpo84"
+        "password": "mo1m910scxsqpo84",
+        "uid": "2500230528262244",
+        "token": "5252c2838ec7ec7592885e97ba5445b1",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "5qjeaj9tw@icznn.com",
@@ -2184,7 +2761,10 @@
     },
     {
         "email": "zlq6l2n@icznn.com",
-        "password": "px269l8dbh9zbu2i"
+        "password": "px269l8dbh9zbu2i",
+        "uid": "2500230528361660",
+        "token": "364d8f6296e488d2a2907093a59f1854",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "e618le72y@kzccv.com",
@@ -2192,11 +2772,17 @@
     },
     {
         "email": "kbc78g8fn@kzccv.com",
-        "password": "4ob3fm2g4q9u6i4z"
+        "password": "4ob3fm2g4q9u6i4z",
+        "uid": "2500230528528387",
+        "token": "88522a0212aacd5a7259b3b4624be6e1",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "xrdvyy@ezztt.com",
-        "password": "qrqy4adtbrrmst9w"
+        "password": "qrqy4adtbrrmst9w",
+        "uid": "2500230528361043",
+        "token": "cb4286d0d260d2b0af9139b127ed4d24",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "a2t17nnr7@qiott.com",
@@ -2204,7 +2790,10 @@
     },
     {
         "email": "2ds3wz8m2b@qiott.com",
-        "password": "2yjcdo9nr4oxrjwn"
+        "password": "2yjcdo9nr4oxrjwn",
+        "uid": "2500230528125923",
+        "token": "85453e91fa0535786c5576cec75824a1",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "s5ryyzcd@qiott.com",
@@ -2212,7 +2801,9 @@
     },
     {
         "email": "s15mof@wuuvo.com",
-        "password": "sled27yfv32t3nsg"
+        "password": "sled27yfv32t3nsg",
+        "uid": "2500230528314065",
+        "token": "89fda57e75a920e48e4a49c01e722346"
     },
     {
         "email": "dywtxe1etsxx@icznn.com",
@@ -2220,11 +2811,17 @@
     },
     {
         "email": "jfp5fk6a2m@qiott.com",
-        "password": "pzfr6d7fyyyf82a9"
+        "password": "pzfr6d7fyyyf82a9",
+        "uid": "2500230528772757",
+        "token": "b61792db92d64c04c47cae57120556e6",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "s4v6872@qiott.com",
-        "password": "uliwddryyf707alx"
+        "password": "uliwddryyf707alx",
+        "uid": "2500230528157636",
+        "token": "23694dfcbc3fa884b8c210b08a39a7a8",
+        "status": "INSTALL FAILED"
     },
     {
         "email": "buvo2qdz3cg@ezztt.com",
@@ -2232,7 +2829,11 @@
     },
     {
         "email": "miq7mfuc@wuuvo.com",
-        "password": "bf0jadqusflxgh20"
+        "password": "bf0jadqusflxgh20",
+        "uid": "2500230528437520",
+        "token": "89aef995830978d21b65ddc12cf60470",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "iwftanbyiq5r@wuuvo.com",
@@ -2248,7 +2849,11 @@
     },
     {
         "email": "sw7gy8qj4ak3@kzccv.com",
-        "password": "kfzh4hrtejvmlquj"
+        "password": "kfzh4hrtejvmlquj",
+        "uid": "2500230528008624",
+        "token": "e5ada94277ecaecc0fe3746b43a39b69",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "m0zckya@wuuvo.com",
@@ -2256,7 +2861,11 @@
     },
     {
         "email": "apg5ylgi@kzccv.com",
-        "password": "vfpcvmi2eogyd6wi"
+        "password": "vfpcvmi2eogyd6wi",
+        "uid": "2500230528983540",
+        "token": "c2935b3aa3c84f8ac10fd82cbdd6cbad",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "nr2i5oqi9za@ezztt.com",
@@ -2268,7 +2877,11 @@
     },
     {
         "email": "5aw8z78jw2@kzccv.com",
-        "password": "6boum67s09hqi8wo"
+        "password": "6boum67s09hqi8wo",
+        "uid": "2500230528768756",
+        "token": "de8d7942be81673fb8b39e0f93f73598",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "gc5a7jjc@wuuvo.com",
@@ -2300,7 +2913,11 @@
     },
     {
         "email": "u077lvz9e7@ezztt.com",
-        "password": "c4b7pixpp4pey2nc"
+        "password": "c4b7pixpp4pey2nc",
+        "uid": "2500230528303617",
+        "token": "100f02095d8a4b43a57831b39444bad3",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "98u09isq@wuuvo.com",
@@ -2324,7 +2941,11 @@
     },
     {
         "email": "g3umyybk7s4k@icznn.com",
-        "password": "x1u5kpprl2lqiyup"
+        "password": "x1u5kpprl2lqiyup",
+        "uid": "2500230528660848",
+        "token": "9fbdb99e10d242e97aa9326e3d5d3a16",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "1zyw11s11@icznn.com",
@@ -2332,7 +2953,11 @@
     },
     {
         "email": "rsriqtr@ezztt.com",
-        "password": "j0xjnqi3cvbz535j"
+        "password": "j0xjnqi3cvbz535j",
+        "uid": "2500230528099154",
+        "token": "99a32f50b0c26659122aef7fd4b9b73f",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "kt6wfvq3@kzccv.com",
@@ -2352,7 +2977,11 @@
     },
     {
         "email": "51u3a7aju@icznn.com",
-        "password": "yx4jcv3e8xtydvds"
+        "password": "yx4jcv3e8xtydvds",
+        "uid": "2500230528050400",
+        "token": "b0e3951d4f928db46b65714297fa60e4",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "8sd3ik6c@ezztt.com",
@@ -2376,11 +3005,19 @@
     },
     {
         "email": "x73qla@ezztt.com",
-        "password": "y22gbtueltiexdck"
+        "password": "y22gbtueltiexdck",
+        "uid": "2500230528475585",
+        "token": "4d192fe45a8627440c4393357225ea65",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "zc64hg2qff@icznn.com",
-        "password": "98v4orhufwvgzza3"
+        "password": "98v4orhufwvgzza3",
+        "uid": "2500230528281654",
+        "token": "20a0695318c1a665df848506394f53f1",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "0dcw10c0nh71@qiott.com",
@@ -2388,11 +3025,19 @@
     },
     {
         "email": "rzis6m9qkye@qiott.com",
-        "password": "febo72cey5a6zo50"
+        "password": "febo72cey5a6zo50",
+        "uid": "2500230528836457",
+        "token": "493128c7d9c88f5e6c26898de63d7e7f",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "psn24dgd@icznn.com",
-        "password": "1mmwl1q4yyh9j3nx"
+        "password": "1mmwl1q4yyh9j3nx",
+        "uid": "2500230528061615",
+        "token": "e09ce66fee2cb956afb95305d33d5c33",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "eaieqiww3@icznn.com",
@@ -2420,11 +3065,19 @@
     },
     {
         "email": "symyag54fz@ezztt.com",
-        "password": "cch7d284ykpy4haa"
+        "password": "cch7d284ykpy4haa",
+        "uid": "2500230528286927",
+        "token": "3aa021e804bc3d7ff329bd81a7c275a4",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "e8ks9xow@wuuvo.com",
-        "password": "exhszqnnwahctz4e"
+        "password": "exhszqnnwahctz4e",
+        "uid": "2500230528822001",
+        "token": "da314fadd04668091a3cd8f2f485ad82",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "etej41@icznn.com",
@@ -2432,7 +3085,11 @@
     },
     {
         "email": "gnxskjpx@ezztt.com",
-        "password": "90mburhtr48749r2"
+        "password": "90mburhtr48749r2",
+        "uid": "2500230528561530",
+        "token": "b63fd74752c6c9a7844f236ed88de98b",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "g6getjgq@wuuvo.com",
@@ -2444,11 +3101,19 @@
     },
     {
         "email": "h9x3lg1ab25@qiott.com",
-        "password": "y8hq2st7yhaxdu5e"
+        "password": "y8hq2st7yhaxdu5e",
+        "uid": "2500230528354521",
+        "token": "987417ebb215dadecfa289b718b50f6c",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "ttv7nadkzd7@qiott.com",
-        "password": "5o0sye7j1l8fm59s"
+        "password": "5o0sye7j1l8fm59s",
+        "uid": "2500230528420958",
+        "token": "a4d04296930a7c41ac77a8cd2ae163cf",
+        "status": "STARTING",
+        "diamond": 1200
     },
     {
         "email": "ivj59th5@ezztt.com",

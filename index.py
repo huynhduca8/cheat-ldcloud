@@ -5,8 +5,9 @@ from encrypt import get_mid
 from multiprocessing.pool import ThreadPool
 from multiprocessing import Lock
 from file import read_file, write_file
-import sys, os
 import traceback
+from log.server import server_run, send_message, sio
+
 lock = Lock()
 acc_file_name = 'acc.json'
 format_email = '%-30s'
@@ -27,6 +28,7 @@ class Cheat:
                 self.token = result['token']
             else:
                 print("USERNAME", acc['email'], "LOGIN FAILED")
+                self.acc['status'] = ("LOGIN FAILED")
                 return
         else:
             self.uid = acc['uid']
@@ -94,6 +96,7 @@ class Cheat:
             raise Exception(req['msg']) 
         except Exception as e:
             print('EMAIL', format_email % self.email, '%-25s' % "INSTALL FAILED", e)
+            self.acc['status'] = ("INSTALL FAILED")
         return False
     def get_money(self, package_name):
         url = "https://ldq.ldcloud.net/api/en/reward/diamond/my"
@@ -109,6 +112,7 @@ class Cheat:
                 self.acc['diamond'] = diamond
                 save_accounts()
                 print('EMAIL', format_email % self.email, '%-25s' % "INSTALL GAME SUCCESS", package_name, "DIAMON", diamond)
+                self.acc['status'] = ("INSTALL GAME SUCCESS . DIAMON: " + diamond)
             return is_success
         except Exception as e:
             print('get_money', e)
@@ -125,10 +129,12 @@ class Cheat:
             status = req['data']['status'] == 1
             if status:
                 print('EMAIL', format_email % self.email, 'RECEIVED 0.27$')
+                self.acc['status'] = ("RECEIVED 0.27$")
                 return status
             raise Exception()
         except Exception as e:
             print('EMAIL', format_email % self.email, 'CAN\'T RECEIVE 0.27$', req)
+            self.acc['status'] = ("CAN\'T RECEIVE 0.27$")
         return False
     
     def pre_buy_device(self):
@@ -150,6 +156,7 @@ class Cheat:
         order_id = self.pre_buy_device()
         if not order_id:
             print('EMAIL', format_email % self.email, 'CAN\'T BUY A DEVICE')
+            self.acc['status'] = ("CAN\'T BUY A DEVICE")
             return False
         url = "https://ldq.ldcloud.net/api/en/wallet/pay"
         params = {
@@ -162,9 +169,11 @@ class Cheat:
             status = req['code'] == 0
             if status:
                 print('EMAIL', format_email % self.email, 'BOUGHT A DEVICE')
+                self.acc['status'] = ("BOUGHT A DEVICE")
             return status
         except Exception as e:
             print('EMAIL', format_email % self.email, 'CAN\'T BUY A DEVICE', req)
+            self.acc['status'] = ("CAN\'T BUY A DEVICE")
         return False
     def get_coin(self):
         url = "https://ldq.ldcloud.net/api/en/reward/diamond/my"
@@ -174,8 +183,10 @@ class Cheat:
         }
         req = self.session.post(url, params=params).json()
         try:
-            print('EMAIL', format_email % self.email,'COIN', req['data']['usableDiamond'])
-            return req['data']['usableDiamond']
+            coin = req['data']['usableDiamond']
+            print('EMAIL', format_email % self.email,'COIN', coin)
+            self.acc['status'] = ("COIN " + coin)
+            return coin
         except Exception as e:
             print('get_coin', e)
         return 0
@@ -198,6 +209,7 @@ class Cheat:
             return device_id
         except Exception as e:
             print('EMAIL', format_email % self.email, 'DOESN\'T HAVE A DEVICE', e)
+            self.acc['status'] = ("DOESN\'T HAVE A DEVICE")
         return 0
     def exchange(self, device_d):
         url = "https://ldq.ldcloud.net/api/en/reward/diamond/exchange"
@@ -211,9 +223,11 @@ class Cheat:
         try:
             if req['code'] == 0:
                 print('EMAIL', format_email % self.email, 'EXCHANGE SUCCESS')
+                self.acc['status'] = ("EXCHANGE SUCCESS")
             return req['code'] == 0
         except Exception as e:
             print('EMAIL', format_email % self.email, 'EXCHANGE FAILED', e)
+            self.acc['status'] = ("EXCHANGE FAILED")
         return False
     def main(self):
         while True:
@@ -225,6 +239,7 @@ class Cheat:
                 else:
                     return
                 print('EMAIL', format_email % self.email, 'STARTING')
+                self.acc['status'] = ("STARTING")
                 device_id = 0
                 if self.is_renew:
                     device_id = self.get_first_device()
@@ -243,6 +258,7 @@ class Cheat:
                         games = self.get_list_games()
                         if len(games) == 0:
                             print('EMAIL', format_email % self.email, "DOESN\'T HAVE ANY GAMES")
+                            self.acc['status'] = ("DOESN\'T HAVE ANY GAMES")
                             self.acc['games'] = 0
                             save_accounts()
                             return
@@ -250,17 +266,31 @@ class Cheat:
                         
                         time.sleep(700)
                     else:
+                        print('EMAIL', format_email % self.email, 'COMPLETE')
+                        self.acc['status'] = ("COMPLETE")
                         return
             except Exception as e:
                 with lock:
                     print('EMAIL', format_email % self.email, 'SOMETHING WENT WRONG', traceback.format_exc())
+                    self.acc['status'] = ('SOMETHING WENT WRONG')
                     time.sleep(60)
 def run(acc):
     Cheat(acc, 'token' not in acc)
+
 def save_accounts():
     write_file(acc_file_name, accounts)
+
 accounts = read_file(acc_file_name)
 write_file('acc-backup.json', accounts)
-if __name__ == '__main__':
+
+def main():
     pool = ThreadPool(200)
-    results = pool.map(run, accounts)
+    pool.map_async(run, accounts)
+    while True:
+        send_message(accounts)
+        time.sleep(1)
+if __name__ == '__main__':
+    sio.start_background_task(main)
+    server_run()
+    # pool = ThreadPool(200)
+    # results = pool.map(run, accounts)
