@@ -5,7 +5,6 @@ from encrypt import get_mid
 from multiprocessing import Lock
 from file import read_file, write_file
 import traceback
-from log.server import server_run, send_message, sio
 
 lock = Lock()
 acc_file_name = 'acc.json'
