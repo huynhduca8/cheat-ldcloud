@@ -43,10 +43,3 @@ def get_message(email):
     except Exception as e:
         print('Except', e)
         return None
-a = [
-    {"a":1},
-    {"b":2}
-]
-c = a[0]
-c["d"] = 10
-print(a)

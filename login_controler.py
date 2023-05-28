@@ -32,13 +32,13 @@ def pre_login(session, username, password):
     except Exception as e:
         # if req and req['code'] == 60001:
         time.sleep(3)
-        print("EMAIL", username, "REPRELOGINING")
+        print('EMAIL', '%-30s' % username, "REPRELOGINING")
         return pre_login(session, username, password)
     return False
 def login(session, username, password):
     result_pre_login = pre_login(session, username, password)
     if not result_pre_login:
-        print(username, "Login failed")
+        print('EMAIL', '%-30s' % username, "Login failed")
         return
     uid = result_pre_login['uid']
     token = result_pre_login['token']
@@ -64,10 +64,10 @@ def login(session, username, password):
     except Exception as e:
         if req and req['code'] == 60001:
             time.sleep(1.5)
-            print("EMAIL", username, "RELOGINING")
+            print('EMAIL', '%-30s' % username, "RELOGINING")
             return pre_login(session, username, password)
         else:
-            print(username, 'Login error', e, req)
+            print('EMAIL', '%-30s' % username, 'Login error', e, req)
     return False
 def send_email(session, email):
     url = "https://usersdk.ldmnq.com/user/sendEmail"
@@ -80,10 +80,10 @@ def send_email(session, email):
     data['sign'] = md5(data).upper()
     req = session.post(url, json = data).json()
     try:
-        print(email, 'Send message success')
+        print('%-30s' % email, 'Send message success')
         return req['code'] == 200
     except Exception as e:
-        print(email, 'Send message error', e)
+        print('%-30s' % email, 'Send message error', e)
     return False
 def verify_register(session, email, password, otp):
     url = "https://usersdk.ldmnq.com/user/login"
@@ -107,8 +107,8 @@ def verify_register(session, email, password, otp):
             "uid": req['data']['uid'],
             "token": req['data']['token']
         }
-        print(email, 'Verify success')
+        print('%-30s' % email, 'Verify success')
         return result
     except Exception as e:
-        print(email, 'Verify error', e)
+        print('%-30s' % email, 'Verify error', e)
     return False
