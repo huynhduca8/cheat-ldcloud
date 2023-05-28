@@ -2,6 +2,7 @@ window.addEventListener('DOMContentLoaded', () => {
     let data = [];
     let socket = io();
     socket.on('response', (msg) => {
+        console.log(msg);
         data.length = 0
         data.push(...msg)
     })
