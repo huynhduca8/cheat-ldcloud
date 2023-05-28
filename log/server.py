@@ -1,8 +1,8 @@
 from flask import Flask, render_template
 import socketio
 
-async_mode = None
-sio = socketio.Server(logger=True, async_mode=async_mode)
+async_mode = 'threading'
+sio = socketio.Server(logger=True, async_mode=async_mode, cors_allowed_origins="*")
 app = Flask(__name__)
 app.wsgi_app = socketio.WSGIApp(sio, app.wsgi_app)
 thread = None
