@@ -4,7 +4,7 @@ from multiprocessing.pool import ThreadPool
 import time
 def main():
     pool = ThreadPool(200)
-    pool.map_async(run, accounts[:10])
+    pool.map_async(run, accounts)
     while True:
         send_message(accounts)
         time.sleep(1)
