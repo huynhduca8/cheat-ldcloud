@@ -2,7 +2,6 @@ import requests
 import time
 from login_controler import login 
 from encrypt import get_mid
-from multiprocessing.pool import ThreadPool
 from multiprocessing import Lock
 from file import read_file, write_file
 import traceback
@@ -281,16 +280,7 @@ def save_accounts():
     write_file(acc_file_name, accounts)
 
 accounts = read_file(acc_file_name)
-write_file('acc-backup.json', accounts)
+for account in accounts:
+    account['status'] = 'WAITING'
 
-def main():
-    pool = ThreadPool(200)
-    pool.map_async(run, accounts)
-    while True:
-        send_message(accounts)
-        time.sleep(1)
-if __name__ == '__main__':
-    sio.start_background_task(main)
-    server_run()
-    # pool = ThreadPool(200)
-    # results = pool.map(run, accounts)
+write_file('acc-backup.json', accounts)
