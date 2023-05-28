@@ -110,7 +110,7 @@ class Cheat:
                 self.acc['diamond'] = diamond
                 save_accounts()
                 print('EMAIL', format_email % self.email, '%-25s' % "INSTALL GAME SUCCESS", package_name, "DIAMON", diamond)
-                self.acc['status'] = ("INSTALL GAME SUCCESS . DIAMON: " + diamond)
+                self.acc['status'] = ("INSTALL GAME SUCCESS . DIAMON: " + str(diamond))
             return is_success
         except Exception as e:
             print('get_money', e)
@@ -183,7 +183,7 @@ class Cheat:
         try:
             coin = req['data']['usableDiamond']
             print('EMAIL', format_email % self.email,'COIN', coin)
-            self.acc['status'] = ("COIN " + coin)
+            self.acc['status'] = ("COIN " + str(coin))
             return coin
         except Exception as e:
             print('get_coin', e)
