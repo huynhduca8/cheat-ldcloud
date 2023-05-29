@@ -1,5 +1,5 @@
 from index import run, accounts
-from log.server import server_run, send_message, socketio
+from log.server import server_run, send_message, socketio, app
 from multiprocessing.pool import ThreadPool
 import time
 def main():
