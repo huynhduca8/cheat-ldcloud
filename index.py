@@ -251,7 +251,7 @@ class Cheat:
                         while self.get_coin() >= 1200:
                             if not self.exchange(device_id):
                                 break
-                            time.sleep(1)
+                            time.sleep(3)
                     if 'games' not in self.acc or self.acc['games'] != 0 :
                         games = self.get_list_games()
                         if len(games) == 0:
@@ -272,6 +272,7 @@ class Cheat:
                     print('EMAIL', format_email % self.email, 'SOMETHING WENT WRONG', traceback.format_exc())
                     self.acc['status'] = ('SOMETHING WENT WRONG')
                     time.sleep(60)
+            time.sleep(1)
 def run(acc):
     Cheat(acc, 'token' not in acc)
 
