@@ -14,4 +14,4 @@ def send_message(msg):
     socketio.emit('response', msg)
 
 def server_run():
-    socketio.run(app)
+    socketio.run(app, port=6969)
